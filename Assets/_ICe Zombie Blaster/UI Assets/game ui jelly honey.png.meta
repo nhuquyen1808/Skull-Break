@@ -1,0 +1,1222 @@
+fileFormatVersion: 2
+guid: 5774db2a48db2ac4b8a2f3257622524d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7233469862620467850
+    second: game ui jelly honey_0
+  - first:
+      213: 8871823342789026850
+    second: game ui jelly honey_1
+  - first:
+      213: -8566988401203782168
+    second: game ui jelly honey_2
+  - first:
+      213: -3405049053415020418
+    second: game ui jelly honey_3
+  - first:
+      213: 4242742983948240000
+    second: game ui jelly honey_4
+  - first:
+      213: -2746660261286358131
+    second: game ui jelly honey_5
+  - first:
+      213: 8453973921861072258
+    second: game ui jelly honey_6
+  - first:
+      213: 8414287517645980880
+    second: game ui jelly honey_7
+  - first:
+      213: -3040047099718367847
+    second: game ui jelly honey_8
+  - first:
+      213: 25178250640348497
+    second: game ui jelly honey_9
+  - first:
+      213: 3130758011353054432
+    second: game ui jelly honey_10
+  - first:
+      213: 8663729903570659183
+    second: game ui jelly honey_11
+  - first:
+      213: 472500011208731245
+    second: game ui jelly honey_12
+  - first:
+      213: -2534377365139429426
+    second: game ui jelly honey_13
+  - first:
+      213: -5436305804101247593
+    second: game ui jelly honey_14
+  - first:
+      213: 7185182320785735362
+    second: game ui jelly honey_15
+  - first:
+      213: -1343604243977707610
+    second: game ui jelly honey_16
+  - first:
+      213: -172184165073826824
+    second: game ui jelly honey_17
+  - first:
+      213: 6930526116341005768
+    second: game ui jelly honey_18
+  - first:
+      213: 3113995540405816357
+    second: game ui jelly honey_19
+  - first:
+      213: -9047710627130751912
+    second: game ui jelly honey_20
+  - first:
+      213: -5606869769332351076
+    second: game ui jelly honey_21
+  - first:
+      213: -1388254998682204795
+    second: game ui jelly honey_22
+  - first:
+      213: -1226811172920058536
+    second: game ui jelly honey_23
+  - first:
+      213: -4938638922380910260
+    second: game ui jelly honey_24
+  - first:
+      213: 2869673127557869502
+    second: game ui jelly honey_25
+  - first:
+      213: -7457871270454462559
+    second: game ui jelly honey_26
+  - first:
+      213: 896293471413385318
+    second: game ui jelly honey_27
+  - first:
+      213: -2780151875752716716
+    second: game ui jelly honey_28
+  - first:
+      213: 5068979934659987539
+    second: game ui jelly honey_29
+  - first:
+      213: 2165522654508880727
+    second: game ui jelly honey_30
+  - first:
+      213: 1857428205165967468
+    second: game ui jelly honey_31
+  - first:
+      213: 6599473919840544234
+    second: game ui jelly honey_32
+  - first:
+      213: -7048630762879165619
+    second: game ui jelly honey_33
+  - first:
+      213: 4101080259307133767
+    second: game ui jelly honey_34
+  - first:
+      213: -1363782218590224394
+    second: game ui jelly honey_35
+  - first:
+      213: -212536648658800022
+    second: game ui jelly honey_36
+  - first:
+      213: -7912815830828339723
+    second: game ui jelly honey_37
+  - first:
+      213: -5355662980600896402
+    second: game ui jelly honey_38
+  - first:
+      213: -5768034148791676054
+    second: game ui jelly honey_39
+  - first:
+      213: -1636506405792691994
+    second: game ui jelly honey_40
+  - first:
+      213: -2749314872277982639
+    second: game ui jelly honey_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: game ui jelly honey_0
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 3778
+        width: 390
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d63090c7d8d9b90800000000000000
+      internalID: -7233469862620467850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly honey_1
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 3764
+        width: 420
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22465f8435c0f1b70800000000000000
+      internalID: 8871823342789026850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly honey_2
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 3764
+        width: 421
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed5b5f5071fb1980800000000000000
+      internalID: -8566988401203782168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly honey_3
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 3764
+        width: 420
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78ea683de5deb0d0800000000000000
+      internalID: -3405049053415020418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly honey_4
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 3764
+        width: 421
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084048fc34041ea30800000000000000
+      internalID: 4242742983948240000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly honey_5
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 3752
+        width: 420
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8358577b07e1e9d0800000000000000
+      internalID: -2746660261286358131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly honey_6
+      rect:
+        serializedVersion: 2
+        x: 3208
+        y: 3718
+        width: 423
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285f1f8ad7c825570800000000000000
+      internalID: 8453973921861072258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly honey_7
+      rect:
+        serializedVersion: 2
+        x: 3746
+        y: 3732
+        width: 422
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4ca4f9aed85c470800000000000000
+      internalID: 8414287517645980880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly honey_8
+      rect:
+        serializedVersion: 2
+        x: 4254
+        y: 3705
+        width: 422
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99584d805459fc5d0800000000000000
+      internalID: -3040047099718367847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly honey_9
+      rect:
+        serializedVersion: 2
+        x: 4779
+        y: 3678
+        width: 433
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155db7d4c73795000800000000000000
+      internalID: 25178250640348497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly honey_10
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1893
+        width: 1235
+        height: 1711
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec3868e2dfa27b20800000000000000
+      internalID: 3130758011353054432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly honey_11
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 3355
+        width: 853
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f672244e170cb3870800000000000000
+      internalID: 8663729903570659183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly honey_12
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 3354
+        width: 854
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ae67cb148ae8600800000000000000
+      internalID: 472500011208731245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly honey_13
+      rect:
+        serializedVersion: 2
+        x: 3283
+        y: 3252
+        width: 421
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7e210d63514dcd0800000000000000
+      internalID: -2534377365139429426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly honey_14
+      rect:
+        serializedVersion: 2
+        x: 3791
+        y: 3212
+        width: 424
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d96288cac5e84b0800000000000000
+      internalID: -5436305804101247593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly honey_15
+      rect:
+        serializedVersion: 2
+        x: 4298
+        y: 3265
+        width: 1041
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ceb9d48045e6b360800000000000000
+      internalID: 7185182320785735362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly honey_16
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 2923
+        width: 853
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af500f0f0f8a5de0800000000000000
+      internalID: -1343604243977707610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly honey_17
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 2937
+        width: 853
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fbc3d40a674c9df0800000000000000
+      internalID: -172184165073826824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly honey_18
+      rect:
+        serializedVersion: 2
+        x: 3618
+        y: 2439
+        width: 1230
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cdb21788cc2e2060800000000000000
+      internalID: 6930526116341005768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly honey_19
+      rect:
+        serializedVersion: 2
+        x: 4952
+        y: 2805
+        width: 275
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c0a020272273b20800000000000000
+      internalID: 3113995540405816357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly honey_20
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 2472
+        width: 938
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85448571f13107280800000000000000
+      internalID: -9047710627130751912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly honey_21
+      rect:
+        serializedVersion: 2
+        x: 2481
+        y: 2473
+        width: 481
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f9119b6a56032b0800000000000000
+      internalID: -5606869769332351076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly honey_22
+      rect:
+        serializedVersion: 2
+        x: 3046
+        y: 2499
+        width: 481
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58503e91f6debbce0800000000000000
+      internalID: -1388254998682204795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly honey_23
+      rect:
+        serializedVersion: 2
+        x: 4937
+        y: 2428
+        width: 306
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d9e97fcbd79fee0800000000000000
+      internalID: -1226811172920058536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly honey_24
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 1885
+        width: 1587
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41619de01e667bb0800000000000000
+      internalID: -4938638922380910260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly honey_25
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 1891
+        width: 1385
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf229d518023d720800000000000000
+      internalID: 2869673127557869502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly honey_26
+      rect:
+        serializedVersion: 2
+        x: 4947
+        y: 1988
+        width: 275
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a778ffc791508890800000000000000
+      internalID: -7457871270454462559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly honey_27
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1643
+        width: 1417
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668b81ad926407c00800000000000000
+      internalID: 896293471413385318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly honey_28
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 525
+        width: 1000
+        height: 1253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4569f10599aea69d0800000000000000
+      internalID: -2780151875752716716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly honey_29
+      rect:
+        serializedVersion: 2
+        x: 2938
+        y: 1228
+        width: 1385
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358cdfad462a85640800000000000000
+      internalID: 5068979934659987539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly honey_30
+      rect:
+        serializedVersion: 2
+        x: 4969
+        y: 1603
+        width: 306
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753101f716b7d0e10800000000000000
+      internalID: 2165522654508880727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly honey_31
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1415
+        width: 1418
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6875bc8c19e6c910800000000000000
+      internalID: 1857428205165967468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly honey_32
+      rect:
+        serializedVersion: 2
+        x: 4357
+        y: 1161
+        width: 872
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5ec88809a069b50800000000000000
+      internalID: 6599473919840544234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly honey_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 719
+        width: 1738
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b52b99aab3e2e90800000000000000
+      internalID: -7048630762879165619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly honey_34
+      rect:
+        serializedVersion: 2
+        x: 3033
+        y: 621
+        width: 1376
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b5e5374c6f9e830800000000000000
+      internalID: 4101080259307133767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly honey_35
+      rect:
+        serializedVersion: 2
+        x: 4694
+        y: 784
+        width: 306
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff7fed3c4fd21de0800000000000000
+      internalID: -1363782218590224394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly honey_36
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 106
+        width: 1339
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62b0fa4b0bec0df0800000000000000
+      internalID: -212536648658800022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly honey_37
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 0
+        width: 1376
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fda36efce7003290800000000000000
+      internalID: -7912815830828339723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly honey_38
+      rect:
+        serializedVersion: 2
+        x: 3160
+        y: 13
+        width: 1376
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64e29805ecdca5b0800000000000000
+      internalID: -5355662980600896402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly honey_39
+      rect:
+        serializedVersion: 2
+        x: 4402
+        y: 446
+        width: 275
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6313f48083d3ffa0800000000000000
+      internalID: -5768034148791676054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly honey_40
+      rect:
+        serializedVersion: 2
+        x: 5023
+        y: 446
+        width: 275
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e843123816f949e0800000000000000
+      internalID: -1636506405792691994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly honey_41
+      rect:
+        serializedVersion: 2
+        x: 4694
+        y: 138
+        width: 306
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1522c2ea0b878d9d0800000000000000
+      internalID: -2749314872277982639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      game ui jelly honey_0: -7233469862620467850
+      game ui jelly honey_1: 8871823342789026850
+      game ui jelly honey_10: 3130758011353054432
+      game ui jelly honey_11: 8663729903570659183
+      game ui jelly honey_12: 472500011208731245
+      game ui jelly honey_13: -2534377365139429426
+      game ui jelly honey_14: -5436305804101247593
+      game ui jelly honey_15: 7185182320785735362
+      game ui jelly honey_16: -1343604243977707610
+      game ui jelly honey_17: -172184165073826824
+      game ui jelly honey_18: 6930526116341005768
+      game ui jelly honey_19: 3113995540405816357
+      game ui jelly honey_2: -8566988401203782168
+      game ui jelly honey_20: -9047710627130751912
+      game ui jelly honey_21: -5606869769332351076
+      game ui jelly honey_22: -1388254998682204795
+      game ui jelly honey_23: -1226811172920058536
+      game ui jelly honey_24: -4938638922380910260
+      game ui jelly honey_25: 2869673127557869502
+      game ui jelly honey_26: -7457871270454462559
+      game ui jelly honey_27: 896293471413385318
+      game ui jelly honey_28: -2780151875752716716
+      game ui jelly honey_29: 5068979934659987539
+      game ui jelly honey_3: -3405049053415020418
+      game ui jelly honey_30: 2165522654508880727
+      game ui jelly honey_31: 1857428205165967468
+      game ui jelly honey_32: 6599473919840544234
+      game ui jelly honey_33: -7048630762879165619
+      game ui jelly honey_34: 4101080259307133767
+      game ui jelly honey_35: -1363782218590224394
+      game ui jelly honey_36: -212536648658800022
+      game ui jelly honey_37: -7912815830828339723
+      game ui jelly honey_38: -5355662980600896402
+      game ui jelly honey_39: -5768034148791676054
+      game ui jelly honey_4: 4242742983948240000
+      game ui jelly honey_40: -1636506405792691994
+      game ui jelly honey_41: -2749314872277982639
+      game ui jelly honey_5: -2746660261286358131
+      game ui jelly honey_6: 8453973921861072258
+      game ui jelly honey_7: 8414287517645980880
+      game ui jelly honey_8: -3040047099718367847
+      game ui jelly honey_9: 25178250640348497
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

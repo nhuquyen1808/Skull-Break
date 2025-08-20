@@ -1,0 +1,4004 @@
+fileFormatVersion: 2
+guid: 1d6dca14745bfeb46aed5e95cc774a74
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6630500899142422341
+    second: wood GUI_0
+  - first:
+      213: -2995075638788545425
+    second: wood GUI_1
+  - first:
+      213: 4641973020665610006
+    second: wood GUI_2
+  - first:
+      213: 3750078144295872629
+    second: wood GUI_3
+  - first:
+      213: -5797824852352112887
+    second: wood GUI_4
+  - first:
+      213: 5087635070985804255
+    second: wood GUI_5
+  - first:
+      213: 6271926585455922826
+    second: wood GUI_6
+  - first:
+      213: 6543856113854913213
+    second: wood GUI_7
+  - first:
+      213: 8275050145891846719
+    second: wood GUI_8
+  - first:
+      213: -5444155510313995894
+    second: wood GUI_9
+  - first:
+      213: -8667834969560494066
+    second: wood GUI_10
+  - first:
+      213: -5316358645604692909
+    second: wood GUI_11
+  - first:
+      213: 1708669823997146099
+    second: wood GUI_12
+  - first:
+      213: -7334271399856819133
+    second: wood GUI_13
+  - first:
+      213: 3537294041215520066
+    second: wood GUI_14
+  - first:
+      213: 7158001835516281592
+    second: wood GUI_15
+  - first:
+      213: 3872258740176206152
+    second: wood GUI_16
+  - first:
+      213: 1212280510858141740
+    second: wood GUI_17
+  - first:
+      213: -27014647717650351
+    second: wood GUI_18
+  - first:
+      213: -1242280469971638720
+    second: wood GUI_19
+  - first:
+      213: -3487209486334522211
+    second: wood GUI_20
+  - first:
+      213: 286418257734735209
+    second: wood GUI_21
+  - first:
+      213: -6374575518727807057
+    second: wood GUI_22
+  - first:
+      213: -7071608230900836953
+    second: wood GUI_23
+  - first:
+      213: -4264749134947101955
+    second: wood GUI_24
+  - first:
+      213: 1222729823920530866
+    second: wood GUI_25
+  - first:
+      213: -8053841778031428434
+    second: wood GUI_26
+  - first:
+      213: 7820274627231445766
+    second: wood GUI_27
+  - first:
+      213: 516550280915236565
+    second: wood GUI_28
+  - first:
+      213: 5625349964381007649
+    second: wood GUI_29
+  - first:
+      213: -7924487085557667526
+    second: wood GUI_30
+  - first:
+      213: -8461821356608528676
+    second: wood GUI_31
+  - first:
+      213: -3969783680242034336
+    second: wood GUI_32
+  - first:
+      213: -3499484138355562949
+    second: wood GUI_33
+  - first:
+      213: -7333379936501238519
+    second: wood GUI_34
+  - first:
+      213: -8083298798362314305
+    second: wood GUI_35
+  - first:
+      213: -2506357580567990790
+    second: wood GUI_36
+  - first:
+      213: 4746237786049926374
+    second: wood GUI_37
+  - first:
+      213: -4068308969841564525
+    second: wood GUI_38
+  - first:
+      213: 8885224576705616693
+    second: wood GUI_39
+  - first:
+      213: -277737803113052873
+    second: wood GUI_40
+  - first:
+      213: 7982046563256918925
+    second: wood GUI_41
+  - first:
+      213: -8668254652833319967
+    second: wood GUI_42
+  - first:
+      213: -7147511708781067298
+    second: wood GUI_43
+  - first:
+      213: -4806345944016324130
+    second: wood GUI_44
+  - first:
+      213: 4919157101426038739
+    second: wood GUI_45
+  - first:
+      213: -5476344782107004936
+    second: wood GUI_46
+  - first:
+      213: -2961684656710278047
+    second: wood GUI_47
+  - first:
+      213: 6352512987901324376
+    second: wood GUI_48
+  - first:
+      213: -5217776114808427470
+    second: wood GUI_49
+  - first:
+      213: 8149905481641155339
+    second: wood GUI_50
+  - first:
+      213: 391782256322053294
+    second: wood GUI_51
+  - first:
+      213: -6889716147173477906
+    second: wood GUI_52
+  - first:
+      213: -1087492611101545124
+    second: wood GUI_53
+  - first:
+      213: 6650409131012630333
+    second: wood GUI_54
+  - first:
+      213: 8439581438985010675
+    second: wood GUI_55
+  - first:
+      213: 6802634990531653608
+    second: wood GUI_56
+  - first:
+      213: 6520741313389993796
+    second: wood GUI_57
+  - first:
+      213: 569487810856731520
+    second: wood GUI_58
+  - first:
+      213: 9082294281288976758
+    second: wood GUI_59
+  - first:
+      213: -2356607243954307187
+    second: wood GUI_60
+  - first:
+      213: -1156055378648547784
+    second: wood GUI_61
+  - first:
+      213: 4642769754414297782
+    second: wood GUI_62
+  - first:
+      213: -3989697904499967584
+    second: wood GUI_63
+  - first:
+      213: -125923729497597381
+    second: wood GUI_64
+  - first:
+      213: -2834695860035773053
+    second: wood GUI_65
+  - first:
+      213: -299789219416991709
+    second: wood GUI_66
+  - first:
+      213: -2731296196611832121
+    second: wood GUI_67
+  - first:
+      213: -1293454895871782046
+    second: wood GUI_68
+  - first:
+      213: -3534384392183700255
+    second: wood GUI_69
+  - first:
+      213: 1935165926044523800
+    second: wood GUI_70
+  - first:
+      213: -7701001852774342981
+    second: wood GUI_71
+  - first:
+      213: 7395176834700487385
+    second: wood GUI_72
+  - first:
+      213: -3915641778424527967
+    second: wood GUI_73
+  - first:
+      213: -1678395757004039439
+    second: wood GUI_74
+  - first:
+      213: -4218756057759579032
+    second: wood GUI_75
+  - first:
+      213: -8185019879864931936
+    second: wood GUI_76
+  - first:
+      213: -7323159036166724713
+    second: wood GUI_77
+  - first:
+      213: -6899005748741009280
+    second: wood GUI_78
+  - first:
+      213: 6668968861880295581
+    second: wood GUI_79
+  - first:
+      213: -268541310789553049
+    second: wood GUI_80
+  - first:
+      213: -5575151078147375887
+    second: wood GUI_81
+  - first:
+      213: -7080123062694984244
+    second: wood GUI_82
+  - first:
+      213: 7874852634135145622
+    second: wood GUI_83
+  - first:
+      213: 5944157030360619488
+    second: wood GUI_84
+  - first:
+      213: 2592528611556835705
+    second: wood GUI_85
+  - first:
+      213: -7729687799492564021
+    second: wood GUI_86
+  - first:
+      213: -6514124817540961633
+    second: wood GUI_87
+  - first:
+      213: 7879836573579125817
+    second: wood GUI_88
+  - first:
+      213: 5425349467977063962
+    second: wood GUI_89
+  - first:
+      213: 7821176690006393473
+    second: wood GUI_90
+  - first:
+      213: -2223216364377379730
+    second: wood GUI_91
+  - first:
+      213: -8878266601302913384
+    second: wood GUI_92
+  - first:
+      213: 3111142151593285228
+    second: wood GUI_93
+  - first:
+      213: -8463352848148339806
+    second: wood GUI_94
+  - first:
+      213: -8934229652124199154
+    second: wood GUI_95
+  - first:
+      213: 3446008588021016447
+    second: wood GUI_96
+  - first:
+      213: -6113665237079134182
+    second: wood GUI_97
+  - first:
+      213: -2691062549849941444
+    second: wood GUI_98
+  - first:
+      213: -3998239696178103910
+    second: wood GUI_99
+  - first:
+      213: 1360121740953715907
+    second: wood GUI_100
+  - first:
+      213: 4120306128884653284
+    second: wood GUI_101
+  - first:
+      213: 6792788924073286630
+    second: wood GUI_102
+  - first:
+      213: -3772190252257623286
+    second: wood GUI_103
+  - first:
+      213: 4942410264716003379
+    second: wood GUI_104
+  - first:
+      213: 5671223614713955162
+    second: wood GUI_105
+  - first:
+      213: 893749016707594843
+    second: wood GUI_106
+  - first:
+      213: -2782625724006599386
+    second: wood GUI_107
+  - first:
+      213: -8993520648097867424
+    second: wood GUI_108
+  - first:
+      213: 1616244091087909789
+    second: wood GUI_109
+  - first:
+      213: -7959870942074259532
+    second: wood GUI_110
+  - first:
+      213: 1827615306587074069
+    second: wood GUI_111
+  - first:
+      213: -3327953791518652914
+    second: wood GUI_112
+  - first:
+      213: -7964517608406967862
+    second: wood GUI_113
+  - first:
+      213: 1037957698744943393
+    second: wood GUI_114
+  - first:
+      213: 9149402429085136168
+    second: wood GUI_115
+  - first:
+      213: -6200581078093113672
+    second: wood GUI_116
+  - first:
+      213: 2422764951972608190
+    second: wood GUI_117
+  - first:
+      213: 6991622454841362622
+    second: wood GUI_118
+  - first:
+      213: -3436335066240621190
+    second: wood GUI_119
+  - first:
+      213: 7071054201391444168
+    second: wood GUI_120
+  - first:
+      213: 402912365516165788
+    second: wood GUI_121
+  - first:
+      213: 5512013025901143506
+    second: wood GUI_122
+  - first:
+      213: -4581601228637680589
+    second: wood GUI_123
+  - first:
+      213: -5836875416969654003
+    second: wood GUI_124
+  - first:
+      213: -1723941423594417245
+    second: wood GUI_125
+  - first:
+      213: 6988624233262536769
+    second: wood GUI_126
+  - first:
+      213: -1357814384186405735
+    second: wood GUI_127
+  - first:
+      213: -622203408762939458
+    second: wood GUI_128
+  - first:
+      213: 8052194241427453150
+    second: wood GUI_129
+  - first:
+      213: -3810360725126276876
+    second: wood GUI_130
+  - first:
+      213: 3855383222527506502
+    second: wood GUI_131
+  - first:
+      213: 8605389141570325071
+    second: wood GUI_132
+  - first:
+      213: 8384194430376300663
+    second: wood GUI_133
+  - first:
+      213: -9085302508167293471
+    second: wood GUI_134
+  - first:
+      213: 8660576620499107818
+    second: wood GUI_135
+  - first:
+      213: -4194967824187397571
+    second: wood GUI_136
+  - first:
+      213: -7204345051424521031
+    second: wood GUI_137
+  - first:
+      213: 8428949478823998294
+    second: wood GUI_138
+  - first:
+      213: 2424601344087592527
+    second: wood GUI_139
+  - first:
+      213: 1528827455367765379
+    second: wood GUI_140
+  - first:
+      213: -8625510403050458122
+    second: wood GUI_141
+  - first:
+      213: -1475130964758194688
+    second: wood GUI_142
+  - first:
+      213: -7251725136081127083
+    second: wood GUI_143
+  - first:
+      213: 6257480975167082291
+    second: wood GUI_144
+  - first:
+      213: 161948714236500426
+    second: wood GUI_145
+  - first:
+      213: -4922713522840645394
+    second: wood GUI_146
+  - first:
+      213: 5550470462159507072
+    second: wood GUI_147
+  - first:
+      213: 1316177696094162048
+    second: wood GUI_148
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wood GUI_0
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1039
+        width: 666
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb035b7ef8abbf3a0800000000000000
+      internalID: -6630500899142422341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_1
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 970
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64259a339a5f66d0800000000000000
+      internalID: -2995075638788545425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_2
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 970
+        width: 75
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f78b93ed99b6040800000000000000
+      internalID: 4641973020665610006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_3
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 970
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57826b61434fa0430800000000000000
+      internalID: 3750078144295872629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_4
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 967
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907ee95d30df98fa0800000000000000
+      internalID: -5797824852352112887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_5
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 967
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd99de04429ea9640800000000000000
+      internalID: 5087635070985804255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_6
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 967
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ecd67dffb5a0750800000000000000
+      internalID: 6271926585455922826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_7
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 967
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba1797f67270da50800000000000000
+      internalID: 6543856113854913213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_8
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 719
+        width: 415
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a8d6cb342e6d270800000000000000
+      internalID: 8275050145891846719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_9
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 665
+        width: 317
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81bfb168697274b0800000000000000
+      internalID: -5444155510313995894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_10
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 661
+        width: 315
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0053a3f40aa5b780800000000000000
+      internalID: -8667834969560494066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_11
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 977
+        width: 112
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35cc726aaff7836b0800000000000000
+      internalID: -5316358645604692909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_12
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 977
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f377c9e62a66b710800000000000000
+      internalID: 1708669823997146099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_13
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 901
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3443a3d350f673a90800000000000000
+      internalID: -7334271399856819133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_14
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 522
+        width: 104
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24dc1c8603ef61130800000000000000
+      internalID: 3537294041215520066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_15
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 882
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2ca83aeb4565360800000000000000
+      internalID: 7158001835516281592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_16
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 882
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849ba9edec60db530800000000000000
+      internalID: 3872258740176206152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_17
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 882
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2024d1a3b2e2d010800000000000000
+      internalID: 1212280510858141740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_18
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 880
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150ae0f225600aff0800000000000000
+      internalID: -27014647717650351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_19
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 880
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0466fe39e7882cee0800000000000000
+      internalID: -1242280469971638720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_20
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 880
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c88adb271fa9fc0800000000000000
+      internalID: -3487209486334522211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_21
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 880
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965177d43ef89f300800000000000000
+      internalID: 286418257734735209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_22
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 844
+        width: 83
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fafd354f655f887a0800000000000000
+      internalID: -6374575518727807057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_23
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 801
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a55d6ee7c99cdd90800000000000000
+      internalID: -7071608230900836953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_24
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 801
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2d253e14190d4c0800000000000000
+      internalID: -4264749134947101955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_25
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 801
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b52f0beb4208f010800000000000000
+      internalID: 1222729823920530866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_26
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 799
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac7c3fe2910b3090800000000000000
+      internalID: -8053841778031428434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_27
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 799
+        width: 75
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60371220752378c60800000000000000
+      internalID: 7820274627231445766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_28
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 799
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6b4926eb72b2700800000000000000
+      internalID: 516550280915236565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_29
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 799
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12faf2cfcf1411e40800000000000000
+      internalID: 5625349964381007649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_30
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 722
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a392a2e3bf0960290800000000000000
+      internalID: -7924487085557667526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_31
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 778
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cded88e0f42919a80800000000000000
+      internalID: -8461821356608528676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_32
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 711
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069d70096ce78e8c0800000000000000
+      internalID: -3969783680242034336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_33
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 711
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36e33c97b55f6fc0800000000000000
+      internalID: -3499484138355562949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_34
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 711
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905fdd93dc99a3a90800000000000000
+      internalID: -7333379936501238519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_35
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 709
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9b54ee19a52df80800000000000000
+      internalID: -8083298798362314305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_36
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 709
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd232a4f01a73dd0800000000000000
+      internalID: -2506357580567990790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_37
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 709
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4da09ae160ed140800000000000000
+      internalID: 4746237786049926374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_38
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 709
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 394ee08fb867a87c0800000000000000
+      internalID: -4068308969841564525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 561
+        width: 118
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53bdb143da8ae4b70800000000000000
+      internalID: 8885224576705616693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_40
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 565
+        width: 120
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735cfb880f6452cf0800000000000000
+      internalID: -277737803113052873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_41
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 561
+        width: 119
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d836e8ffe0de5ce60800000000000000
+      internalID: 7982046563256918925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_42
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 658
+        width: 144
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e33e33d15c24b780800000000000000
+      internalID: -8668254652833319967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_43
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 621
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3c82258ffeecc90800000000000000
+      internalID: -7147511708781067298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_44
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 621
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9744b34dd6c4db0800000000000000
+      internalID: -4806345944016324130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_45
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 621
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7d6d8225b544440800000000000000
+      internalID: 4919157101426038739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_46
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 619
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ffa2f28f6d1004b0800000000000000
+      internalID: -5476344782107004936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_47
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 619
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1642f041f7bf5e6d0800000000000000
+      internalID: -2961684656710278047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_48
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 619
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ce9eac7e8a82850800000000000000
+      internalID: 6352512987901324376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_49
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 619
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c635fb44cb697b0800000000000000
+      internalID: -5217776114808427470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_50
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 19
+        width: 619
+        height: 633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0bda320bd74a1170800000000000000
+      internalID: 8149905481641155339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_51
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 593
+        width: 144
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea48069e2e3ef6500800000000000000
+      internalID: 391782256322053294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_52
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 537
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1b37cdaafc260a0800000000000000
+      internalID: -6889716147173477906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_53
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 537
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d2e636b3378e0f0800000000000000
+      internalID: -1087492611101545124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_54
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 537
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37a5098edffa4c50800000000000000
+      internalID: 6650409131012630333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_55
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 535
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd7eab9a9a6f1570800000000000000
+      internalID: 8439581438985010675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_56
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 535
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef28436b70d76e50800000000000000
+      internalID: 6802634990531653608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_57
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 535
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f13d81da35e7a50800000000000000
+      internalID: 6520741313389993796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_58
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 535
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083c70e852a37e700800000000000000
+      internalID: 569487810856731520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_59
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 525
+        width: 122
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6798acd578aca0e70800000000000000
+      internalID: 9082294281288976758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_60
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 533
+        width: 128
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8fbdfc8236ab4fd0800000000000000
+      internalID: -2356607243954307187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_61
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 474
+        width: 144
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e39f612cdd4ffe0800000000000000
+      internalID: -1156055378648547784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_62
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 445
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2bac14e7e6e6040800000000000000
+      internalID: 4642769754414297782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_63
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 445
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9b829e4eeb1a8c0800000000000000
+      internalID: -3989697904499967584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_64
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 445
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ad0820901a04ef0800000000000000
+      internalID: -125923729497597381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_65
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 442
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d1c48522329a8d0800000000000000
+      internalID: -2834695860035773053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_66
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 442
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32898251b4fe6dbf0800000000000000
+      internalID: -299789219416991709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_67
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 442
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c68398849c781ad0800000000000000
+      internalID: -2731296196611832121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_68
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 442
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263929e00a9bc0ee0800000000000000
+      internalID: -1293454895871782046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_69
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 349
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4a43c0f1853fec0800000000000000
+      internalID: -3534384392183700255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_70
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 349
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81dd25328271bda10800000000000000
+      internalID: 1935165926044523800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_71
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 351
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe92c6dd9b802590800000000000000
+      internalID: -7701001852774342981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_72
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 351
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da258b5622f0a660800000000000000
+      internalID: 7395176834700487385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_73
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 380
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3c3596c88d8a9c0800000000000000
+      internalID: -3915641778424527967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_74
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 369
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa504793f325b8e0800000000000000
+      internalID: -1678395757004039439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_75
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 380
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8648637a7b7f375c0800000000000000
+      internalID: -4218756057759579032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_76
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 368
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9e32d09c7f86e80800000000000000
+      internalID: -8185019879864931936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_77
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 351
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793279708a9ee5a90800000000000000
+      internalID: -7323159036166724713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_78
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 326
+        width: 561
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0801ae2f2dec140a0800000000000000
+      internalID: -6899005748741009280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_79
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 354
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90248e98dfec8c50800000000000000
+      internalID: 6668968861880295581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_80
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 354
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764fed2c913f54cf0800000000000000
+      internalID: -268541310789553049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_81
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 354
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fcb3e102a511a2b0800000000000000
+      internalID: -5575151078147375887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_82
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 352
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5c30a26995ebd90800000000000000
+      internalID: -7080123062694984244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_83
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 352
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69cac2c7fb8194d60800000000000000
+      internalID: 7874852634135145622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_84
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 352
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e919cb5353ed7250800000000000000
+      internalID: 5944157030360619488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_85
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 352
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971c1e159038af320800000000000000
+      internalID: 2592528611556835705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_86
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 357
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb239666e1aab490800000000000000
+      internalID: -7729687799492564021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_87
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 356
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a2ae3edfd2995a0800000000000000
+      internalID: -6514124817540961633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_88
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 297
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934a0505d9dca5d60800000000000000
+      internalID: 7879836573579125817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_89
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 303
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e902da896ba4b40800000000000000
+      internalID: 5425349467977063962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_90
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 294
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182856dd2c66a8c60800000000000000
+      internalID: 7821176690006393473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_91
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 294
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c6376ee7c8521e0800000000000000
+      internalID: -2223216364377379730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_92
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 294
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e0020b09f0ac480800000000000000
+      internalID: -8878266601302913384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_93
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 301
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c665677ad4ffc2b20800000000000000
+      internalID: 3111142151593285228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_94
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 292
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3e355ec612c8a80800000000000000
+      internalID: -8463352848148339806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_95
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 270
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07106b877d330480800000000000000
+      internalID: -8934229652124199154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_96
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 270
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7720f59d8ea2df20800000000000000
+      internalID: 3446008588021016447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_97
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 270
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a107e34cbd5e72ba0800000000000000
+      internalID: -6113665237079134182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_98
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 268
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a56d76edc67aad0800000000000000
+      internalID: -2691062549849941444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_99
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 268
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99307e0e266388c0800000000000000
+      internalID: -3998239696178103910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_100
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 268
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c405d4648f10e210800000000000000
+      internalID: 1360121740953715907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_101
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 268
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ecd80a08944e2930800000000000000
+      internalID: 4120306128884653284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_102
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 291
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb98956985d44e50800000000000000
+      internalID: 6792788924073286630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_103
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 232
+        width: 425
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a034ef493fc76abc0800000000000000
+      internalID: -3772190252257623286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_104
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 230
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33844a223f7f69440800000000000000
+      internalID: 4942410264716003379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_105
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 228
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305d484db34be40800000000000000
+      internalID: 5671223614713955162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_106
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 232
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5af533defb376c00800000000000000
+      internalID: 893749016707594843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_107
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 234
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625f8b1a5a02269d0800000000000000
+      internalID: -2782625724006599386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_108
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 236
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0695cf9ce98903380800000000000000
+      internalID: -8993520648097867424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_109
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 249
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d937e97007d0e6610800000000000000
+      internalID: 1616244091087909789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_110
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 237
+        width: 15
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7b5b72d8bd88190800000000000000
+      internalID: -7959870942074259532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_111
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 237
+        width: 14
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e603f207efc5910800000000000000
+      internalID: 1827615306587074069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_112
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 175
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06cd9ba8abb0d1d0800000000000000
+      internalID: -3327953791518652914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_113
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 175
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac91f87de69587190800000000000000
+      internalID: -7964517608406967862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_114
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 175
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12303951701976e00800000000000000
+      internalID: 1037957698744943393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_115
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 173
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82537bc980539fe70800000000000000
+      internalID: 9149402429085136168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_116
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 173
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6504f8c5c13f9a0800000000000000
+      internalID: -6200581078093113672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_117
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 173
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8f79033e36f9120800000000000000
+      internalID: 2422764951972608190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_118
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 173
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8c678549b370160800000000000000
+      internalID: 6991622454841362622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_119
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 175
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a756287b67faf40d0800000000000000
+      internalID: -3436335066240621190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_120
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 175
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c07875055e612260800000000000000
+      internalID: 7071054201391444168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_121
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 181
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92143669ae679500800000000000000
+      internalID: 402912365516165788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_122
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 129
+        width: 425
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5e926a4aa9e7c40800000000000000
+      internalID: 5512013025901143506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_123
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 109
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33cce88f4f1ea60c0800000000000000
+      internalID: -4581601228637680589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_124
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 107
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01505dbbb04ffea0800000000000000
+      internalID: -5836875416969654003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_125
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 108
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3d219b8645318e0800000000000000
+      internalID: -1723941423594417245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_126
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 104
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148dc4c76b49cf060800000000000000
+      internalID: 6988624233262536769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_127
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 102
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c47a7f203182de0800000000000000
+      internalID: -1357814384186405735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_128
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 107
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7d5aadb4d7d57f0800000000000000
+      internalID: -622203408762939458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_129
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 17
+        width: 109
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4babe00042fbf60800000000000000
+      internalID: 8052194241427453150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_130
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 85
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f89fb0db11ee1bc0800000000000000
+      internalID: -3810360725126276876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_131
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 85
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648b0cb3d92118530800000000000000
+      internalID: 3855383222527506502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_132
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 85
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a8d49b4db7c6770800000000000000
+      internalID: 8605389141570325071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_133
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 83
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770536eb964aa5470800000000000000
+      internalID: 8384194430376300663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_134
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 83
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e519bb31858ae180800000000000000
+      internalID: -9085302508167293471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_135
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 83
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeff6e6fc8c803870800000000000000
+      internalID: 8660576620499107818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_136
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 83
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3aed136dfa78c5c0800000000000000
+      internalID: -4194967824187397571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_137
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 59
+        width: 52
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b48f729856050c90800000000000000
+      internalID: -7204345051424521031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_138
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 57
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653b40b74e4a9f470800000000000000
+      internalID: 8428949478823998294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_139
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 48
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e864c831ae5a120800000000000000
+      internalID: 2424601344087592527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_140
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 46
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d5f08787c773510800000000000000
+      internalID: 1528827455367765379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_141
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 26
+        width: 425
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3bdb30df70c4880800000000000000
+      internalID: -8625510403050458122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_142
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 1
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00698600438478be0800000000000000
+      internalID: -1475130964758194688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_143
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559fc17f862bc5b90800000000000000
+      internalID: -7251725136081127083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_144
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 1
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f49991bc907d650800000000000000
+      internalID: 6257480975167082291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_145
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 0
+        width: 77
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9d5ef5f7b5f3200800000000000000
+      internalID: 161948714236500426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_146
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 0
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee05214f1220fabb0800000000000000
+      internalID: -4922713522840645394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_147
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 0
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ec0594a7b370d40800000000000000
+      internalID: 5550470462159507072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood GUI_148
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 0
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c0cf424a0044210800000000000000
+      internalID: 1316177696094162048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      wood GUI_0: -6630500899142422341
+      wood GUI_1: -2995075638788545425
+      wood GUI_10: -8667834969560494066
+      wood GUI_100: 1360121740953715907
+      wood GUI_101: 4120306128884653284
+      wood GUI_102: 6792788924073286630
+      wood GUI_103: -3772190252257623286
+      wood GUI_104: 4942410264716003379
+      wood GUI_105: 5671223614713955162
+      wood GUI_106: 893749016707594843
+      wood GUI_107: -2782625724006599386
+      wood GUI_108: -8993520648097867424
+      wood GUI_109: 1616244091087909789
+      wood GUI_11: -5316358645604692909
+      wood GUI_110: -7959870942074259532
+      wood GUI_111: 1827615306587074069
+      wood GUI_112: -3327953791518652914
+      wood GUI_113: -7964517608406967862
+      wood GUI_114: 1037957698744943393
+      wood GUI_115: 9149402429085136168
+      wood GUI_116: -6200581078093113672
+      wood GUI_117: 2422764951972608190
+      wood GUI_118: 6991622454841362622
+      wood GUI_119: -3436335066240621190
+      wood GUI_12: 1708669823997146099
+      wood GUI_120: 7071054201391444168
+      wood GUI_121: 402912365516165788
+      wood GUI_122: 5512013025901143506
+      wood GUI_123: -4581601228637680589
+      wood GUI_124: -5836875416969654003
+      wood GUI_125: -1723941423594417245
+      wood GUI_126: 6988624233262536769
+      wood GUI_127: -1357814384186405735
+      wood GUI_128: -622203408762939458
+      wood GUI_129: 8052194241427453150
+      wood GUI_13: -7334271399856819133
+      wood GUI_130: -3810360725126276876
+      wood GUI_131: 3855383222527506502
+      wood GUI_132: 8605389141570325071
+      wood GUI_133: 8384194430376300663
+      wood GUI_134: -9085302508167293471
+      wood GUI_135: 8660576620499107818
+      wood GUI_136: -4194967824187397571
+      wood GUI_137: -7204345051424521031
+      wood GUI_138: 8428949478823998294
+      wood GUI_139: 2424601344087592527
+      wood GUI_14: 3537294041215520066
+      wood GUI_140: 1528827455367765379
+      wood GUI_141: -8625510403050458122
+      wood GUI_142: -1475130964758194688
+      wood GUI_143: -7251725136081127083
+      wood GUI_144: 6257480975167082291
+      wood GUI_145: 161948714236500426
+      wood GUI_146: -4922713522840645394
+      wood GUI_147: 5550470462159507072
+      wood GUI_148: 1316177696094162048
+      wood GUI_15: 7158001835516281592
+      wood GUI_16: 3872258740176206152
+      wood GUI_17: 1212280510858141740
+      wood GUI_18: -27014647717650351
+      wood GUI_19: -1242280469971638720
+      wood GUI_2: 4641973020665610006
+      wood GUI_20: -3487209486334522211
+      wood GUI_21: 286418257734735209
+      wood GUI_22: -6374575518727807057
+      wood GUI_23: -7071608230900836953
+      wood GUI_24: -4264749134947101955
+      wood GUI_25: 1222729823920530866
+      wood GUI_26: -8053841778031428434
+      wood GUI_27: 7820274627231445766
+      wood GUI_28: 516550280915236565
+      wood GUI_29: 5625349964381007649
+      wood GUI_3: 3750078144295872629
+      wood GUI_30: -7924487085557667526
+      wood GUI_31: -8461821356608528676
+      wood GUI_32: -3969783680242034336
+      wood GUI_33: -3499484138355562949
+      wood GUI_34: -7333379936501238519
+      wood GUI_35: -8083298798362314305
+      wood GUI_36: -2506357580567990790
+      wood GUI_37: 4746237786049926374
+      wood GUI_38: -4068308969841564525
+      wood GUI_39: 8885224576705616693
+      wood GUI_4: -5797824852352112887
+      wood GUI_40: -277737803113052873
+      wood GUI_41: 7982046563256918925
+      wood GUI_42: -8668254652833319967
+      wood GUI_43: -7147511708781067298
+      wood GUI_44: -4806345944016324130
+      wood GUI_45: 4919157101426038739
+      wood GUI_46: -5476344782107004936
+      wood GUI_47: -2961684656710278047
+      wood GUI_48: 6352512987901324376
+      wood GUI_49: -5217776114808427470
+      wood GUI_5: 5087635070985804255
+      wood GUI_50: 8149905481641155339
+      wood GUI_51: 391782256322053294
+      wood GUI_52: -6889716147173477906
+      wood GUI_53: -1087492611101545124
+      wood GUI_54: 6650409131012630333
+      wood GUI_55: 8439581438985010675
+      wood GUI_56: 6802634990531653608
+      wood GUI_57: 6520741313389993796
+      wood GUI_58: 569487810856731520
+      wood GUI_59: 9082294281288976758
+      wood GUI_6: 6271926585455922826
+      wood GUI_60: -2356607243954307187
+      wood GUI_61: -1156055378648547784
+      wood GUI_62: 4642769754414297782
+      wood GUI_63: -3989697904499967584
+      wood GUI_64: -125923729497597381
+      wood GUI_65: -2834695860035773053
+      wood GUI_66: -299789219416991709
+      wood GUI_67: -2731296196611832121
+      wood GUI_68: -1293454895871782046
+      wood GUI_69: -3534384392183700255
+      wood GUI_7: 6543856113854913213
+      wood GUI_70: 1935165926044523800
+      wood GUI_71: -7701001852774342981
+      wood GUI_72: 7395176834700487385
+      wood GUI_73: -3915641778424527967
+      wood GUI_74: -1678395757004039439
+      wood GUI_75: -4218756057759579032
+      wood GUI_76: -8185019879864931936
+      wood GUI_77: -7323159036166724713
+      wood GUI_78: -6899005748741009280
+      wood GUI_79: 6668968861880295581
+      wood GUI_8: 8275050145891846719
+      wood GUI_80: -268541310789553049
+      wood GUI_81: -5575151078147375887
+      wood GUI_82: -7080123062694984244
+      wood GUI_83: 7874852634135145622
+      wood GUI_84: 5944157030360619488
+      wood GUI_85: 2592528611556835705
+      wood GUI_86: -7729687799492564021
+      wood GUI_87: -6514124817540961633
+      wood GUI_88: 7879836573579125817
+      wood GUI_89: 5425349467977063962
+      wood GUI_9: -5444155510313995894
+      wood GUI_90: 7821176690006393473
+      wood GUI_91: -2223216364377379730
+      wood GUI_92: -8878266601302913384
+      wood GUI_93: 3111142151593285228
+      wood GUI_94: -8463352848148339806
+      wood GUI_95: -8934229652124199154
+      wood GUI_96: 3446008588021016447
+      wood GUI_97: -6113665237079134182
+      wood GUI_98: -2691062549849941444
+      wood GUI_99: -3998239696178103910
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

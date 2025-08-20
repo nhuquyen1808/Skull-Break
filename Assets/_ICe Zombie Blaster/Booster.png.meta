@@ -1,0 +1,1742 @@
+fileFormatVersion: 2
+guid: b8439578eb770fc4494e362b1eae04af
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4365544765984126881
+    second: Booster_0
+  - first:
+      213: -8498876596431721108
+    second: Booster_1
+  - first:
+      213: -8100594544482528049
+    second: Booster_2
+  - first:
+      213: 1194090911189275359
+    second: Booster_3
+  - first:
+      213: -5397349009757908598
+    second: Booster_4
+  - first:
+      213: 8642119779978135168
+    second: Booster_5
+  - first:
+      213: 8317087541361363793
+    second: Booster_6
+  - first:
+      213: 3604177363344546749
+    second: Booster_7
+  - first:
+      213: -3445908166089601059
+    second: Booster_8
+  - first:
+      213: 8497558530313880256
+    second: Booster_9
+  - first:
+      213: -4324899707779469146
+    second: Booster_10
+  - first:
+      213: -2395805156260710951
+    second: Booster_11
+  - first:
+      213: -4072436507620615081
+    second: Booster_12
+  - first:
+      213: -7286472524918505303
+    second: Booster_13
+  - first:
+      213: 6274579820711347022
+    second: Booster_14
+  - first:
+      213: 1880656526221323996
+    second: Booster_15
+  - first:
+      213: 978407159595807573
+    second: Booster_16
+  - first:
+      213: 6053609984718613594
+    second: Booster_17
+  - first:
+      213: 6088586314668284040
+    second: Booster_18
+  - first:
+      213: -1747440166264256626
+    second: Booster_19
+  - first:
+      213: -5653163909638121200
+    second: Booster_20
+  - first:
+      213: 4581676973763256120
+    second: Booster_21
+  - first:
+      213: -7031198735261942429
+    second: Booster_22
+  - first:
+      213: -2590529664207569368
+    second: Booster_23
+  - first:
+      213: 3966553344696238714
+    second: Booster_24
+  - first:
+      213: 5935679354729503549
+    second: Booster_25
+  - first:
+      213: -8279777223559257860
+    second: Booster_26
+  - first:
+      213: 4654291940747284472
+    second: Booster_27
+  - first:
+      213: 5776865251028634686
+    second: Booster_28
+  - first:
+      213: -7104540373742555865
+    second: Booster_29
+  - first:
+      213: -6384980989177401219
+    second: Booster_30
+  - first:
+      213: -4303018041599978481
+    second: Booster_31
+  - first:
+      213: -6460397097192034302
+    second: Booster_32
+  - first:
+      213: 183576865019555205
+    second: Booster_33
+  - first:
+      213: -2686284297807592364
+    second: Booster_34
+  - first:
+      213: 8387802235287354214
+    second: Booster_35
+  - first:
+      213: 8577087390409092038
+    second: Booster_36
+  - first:
+      213: 3289928081876990471
+    second: Booster_37
+  - first:
+      213: 1851517286766893940
+    second: Booster_38
+  - first:
+      213: 5871099750360331246
+    second: Booster_39
+  - first:
+      213: -5398953042305820704
+    second: Booster_40
+  - first:
+      213: 810552846836479095
+    second: Booster_41
+  - first:
+      213: 7776234283857091366
+    second: Booster_42
+  - first:
+      213: -6582703957876482357
+    second: Booster_43
+  - first:
+      213: -2035671724355991516
+    second: Booster_44
+  - first:
+      213: -9007983530759235063
+    second: Booster_45
+  - first:
+      213: -1390996814367695402
+    second: Booster_46
+  - first:
+      213: -625295581861469236
+    second: Booster_47
+  - first:
+      213: -2049202280097125586
+    second: Booster_48
+  - first:
+      213: -7281601769799700482
+    second: Booster_49
+  - first:
+      213: -4369784233428635447
+    second: Booster_50
+  - first:
+      213: 5156489799707569724
+    second: Booster_51
+  - first:
+      213: 7004604066128567884
+    second: Booster_52
+  - first:
+      213: -2989538510293999954
+    second: Booster_53
+  - first:
+      213: 7056184688732287986
+    second: Booster_54
+  - first:
+      213: 4639327682650395255
+    second: Booster_55
+  - first:
+      213: 2942167564885793297
+    second: Booster_56
+  - first:
+      213: 8374291802581898971
+    second: Booster_57
+  - first:
+      213: -7834188223295159947
+    second: Booster_58
+  - first:
+      213: 2959387710234406274
+    second: Booster_59
+  - first:
+      213: 5016965555879643719
+    second: Booster_60
+  - first:
+      213: -8075438361826776743
+    second: Booster_61
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Booster_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 86
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7bc83c5d7859c30800000000000000
+      internalID: 4365544765984126881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booster_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 157
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d6ec7b3cced0a80800000000000000
+      internalID: -8498876596431721108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booster_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 971
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4d6aa3e28e49f80800000000000000
+      internalID: -8100594544482528049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booster_3
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 676
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd295fe6b53429010800000000000000
+      internalID: 1194090911189275359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booster_4
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 446
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81d2980ca3c815b0800000000000000
+      internalID: -5397349009757908598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booster_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 939
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08649f7e62afee770800000000000000
+      internalID: 8642119779978135168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booster_6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 63
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15bcba49d0b3c6370800000000000000
+      internalID: 8317087541361363793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booster_7
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 999
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbbd7a9573c940230800000000000000
+      internalID: 3604177363344546749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booster_8
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 984
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf8c97b7ccad20d0800000000000000
+      internalID: -3445908166089601059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booster_9
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 950
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2037916746de570800000000000000
+      internalID: 8497558530313880256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booster_10
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 818
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a03d9c41aedaf3c0800000000000000
+      internalID: -4324899707779469146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booster_11
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 798
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5f70667e360ced0800000000000000
+      internalID: -2395805156260710951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booster_12
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 789
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75cd0f0b29ccb77c0800000000000000
+      internalID: -4072436507620615081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booster_13
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 733
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0c69e08df31ea90800000000000000
+      internalID: -7286472524918505303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booster_14
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 717
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4385505a19c31750800000000000000
+      internalID: 6274579820711347022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booster_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 707
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde21fd752f691a10800000000000000
+      internalID: 1880656526221323996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booster_16
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 479
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5533869b020049d00800000000000000
+      internalID: 978407159595807573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booster_17
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 286
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c29eb253eb20450800000000000000
+      internalID: 6053609984718613594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booster_18
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 230
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8889b169ef00f7450800000000000000
+      internalID: 6088586314668284040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booster_19
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 206
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87c1975d68dfb7e0800000000000000
+      internalID: -1747440166264256626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booster_20
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 126
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01916fc306deb81b0800000000000000
+      internalID: -5653163909638121200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booster_21
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 119
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83fdeb0dee2659f30800000000000000
+      internalID: 4581676973763256120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booster_22
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 94
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d398fc00a2c6e90800000000000000
+      internalID: -7031198735261942429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booster_23
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 35
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ebbc0eef69c0cd0800000000000000
+      internalID: -2590529664207569368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booster_24
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 22
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72c14550470c0730800000000000000
+      internalID: 3966553344696238714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booster_25
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 6
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b954face4cf5250800000000000000
+      internalID: 5935679354729503549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booster_26
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 934
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0616abb72581d80800000000000000
+      internalID: -8279777223559257860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booster_27
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 838
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff84315cdd579040800000000000000
+      internalID: 4654291940747284472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booster_28
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 590
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c0cd2b65c8b2050800000000000000
+      internalID: 5776865251028634686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booster_29
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 566
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d67aaeb2a976d90800000000000000
+      internalID: -7104540373742555865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booster_30
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 462
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7075729e9df367a0800000000000000
+      internalID: -6384980989177401219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booster_31
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 398
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f041658b3eb9844c0800000000000000
+      internalID: -4303018041599978481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booster_32
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 342
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20077e9911f0856a0800000000000000
+      internalID: -6460397097192034302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booster_33
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 318
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d6874af223c8200800000000000000
+      internalID: 183576865019555205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booster_34
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 262
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4540877e9a668bad0800000000000000
+      internalID: -2686284297807592364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booster_35
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 176
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66bb78841b5776470800000000000000
+      internalID: 8387802235287354214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booster_36
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 166
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cbe0d8c98fe70770800000000000000
+      internalID: 8577087390409092038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booster_37
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 111
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a3cd0e82c28ad20800000000000000
+      internalID: 3289928081876990471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booster_38
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 30
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b5c3d9929e1b910800000000000000
+      internalID: 1851517286766893940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booster_39
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 966
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3bc15dd165a7150800000000000000
+      internalID: 5871099750360331246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booster_40
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 918
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7d85a10d01315b0800000000000000
+      internalID: -5398953042305820704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booster_41
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 903
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774be5b0589af3b00800000000000000
+      internalID: 810552846836479095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booster_42
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 854
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b148381ebbaeb60800000000000000
+      internalID: 7776234283857091366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booster_43
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 846
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bced63180a985a4a0800000000000000
+      internalID: -6582703957876482357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booster_44
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 830
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42844762a57dfb3e0800000000000000
+      internalID: -2035671724355991516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booster_45
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 750
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ad68284b63df280800000000000000
+      internalID: -9007983530759235063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booster_46
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 550
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ddd9e364cf22bce0800000000000000
+      internalID: -1390996814367695402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booster_47
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 542
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3a6833bf08257f0800000000000000
+      internalID: -625295581861469236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booster_48
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 534
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2be3e52265cf83e0800000000000000
+      internalID: -2049202280097125586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booster_49
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 502
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: effab3b15cd82fa90800000000000000
+      internalID: -7281601769799700482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booster_50
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 438
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0326d44686b53c0800000000000000
+      internalID: -4369784233428635447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booster_51
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 430
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3eae7f07288f8740800000000000000
+      internalID: 5156489799707569724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booster_52
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 415
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e99d1494a553160800000000000000
+      internalID: 7004604066128567884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booster_53
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 406
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae539b60960386d0800000000000000
+      internalID: -2989538510293999954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booster_54
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 326
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f33071d69a9ce160800000000000000
+      internalID: 7056184688732287986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booster_55
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 268
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772530972f3326040800000000000000
+      internalID: 4639327682650395255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booster_56
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 187
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a91bedfcda4d820800000000000000
+      internalID: 2942167564885793297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booster_57
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 0
+        width: 1299
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd61c5a8606773470800000000000000
+      internalID: 8374291802581898971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booster_58
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 8
+        width: 814
+        height: 805
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57181f6715f574390800000000000000
+      internalID: -7834188223295159947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booster_59
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 799
+        width: 65
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28dad25617bd11920800000000000000
+      internalID: 2959387710234406274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booster_60
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 950
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a83909797df9540800000000000000
+      internalID: 5016965555879643719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booster_61
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 943
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959a0cd68974eef80800000000000000
+      internalID: -8075438361826776743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Booster_0: 4365544765984126881
+      Booster_1: -8498876596431721108
+      Booster_10: -4324899707779469146
+      Booster_11: -2395805156260710951
+      Booster_12: -4072436507620615081
+      Booster_13: -7286472524918505303
+      Booster_14: 6274579820711347022
+      Booster_15: 1880656526221323996
+      Booster_16: 978407159595807573
+      Booster_17: 6053609984718613594
+      Booster_18: 6088586314668284040
+      Booster_19: -1747440166264256626
+      Booster_2: -8100594544482528049
+      Booster_20: -5653163909638121200
+      Booster_21: 4581676973763256120
+      Booster_22: -7031198735261942429
+      Booster_23: -2590529664207569368
+      Booster_24: 3966553344696238714
+      Booster_25: 5935679354729503549
+      Booster_26: -8279777223559257860
+      Booster_27: 4654291940747284472
+      Booster_28: 5776865251028634686
+      Booster_29: -7104540373742555865
+      Booster_3: 1194090911189275359
+      Booster_30: -6384980989177401219
+      Booster_31: -4303018041599978481
+      Booster_32: -6460397097192034302
+      Booster_33: 183576865019555205
+      Booster_34: -2686284297807592364
+      Booster_35: 8387802235287354214
+      Booster_36: 8577087390409092038
+      Booster_37: 3289928081876990471
+      Booster_38: 1851517286766893940
+      Booster_39: 5871099750360331246
+      Booster_4: -5397349009757908598
+      Booster_40: -5398953042305820704
+      Booster_41: 810552846836479095
+      Booster_42: 7776234283857091366
+      Booster_43: -6582703957876482357
+      Booster_44: -2035671724355991516
+      Booster_45: -9007983530759235063
+      Booster_46: -1390996814367695402
+      Booster_47: -625295581861469236
+      Booster_48: -2049202280097125586
+      Booster_49: -7281601769799700482
+      Booster_5: 8642119779978135168
+      Booster_50: -4369784233428635447
+      Booster_51: 5156489799707569724
+      Booster_52: 7004604066128567884
+      Booster_53: -2989538510293999954
+      Booster_54: 7056184688732287986
+      Booster_55: 4639327682650395255
+      Booster_56: 2942167564885793297
+      Booster_57: 8374291802581898971
+      Booster_58: -7834188223295159947
+      Booster_59: 2959387710234406274
+      Booster_6: 8317087541361363793
+      Booster_60: 5016965555879643719
+      Booster_61: -8075438361826776743
+      Booster_7: 3604177363344546749
+      Booster_8: -3445908166089601059
+      Booster_9: 8497558530313880256
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
