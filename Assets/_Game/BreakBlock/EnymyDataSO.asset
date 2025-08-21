@@ -20,24 +20,24 @@ MonoBehaviour:
   - name: 1
     health: 10
     speed: 0
-    sprite: {fileID: -5636197772964997873, guid: cd00b0b98796b7040924459f67178ae7, type: 3}
+    sprite: {fileID: -724056971925584315, guid: 836f512503184d14bb08a634c41f7565, type: 3}
   - name: 2
     health: 15
     speed: 0
-    sprite: {fileID: 4987967948460983631, guid: cd00b0b98796b7040924459f67178ae7, type: 3}
+    sprite: {fileID: -7482177786666212508, guid: 836f512503184d14bb08a634c41f7565, type: 3}
   - name: 3
     health: 20
     speed: 0
-    sprite: {fileID: -1192357316273529987, guid: cd00b0b98796b7040924459f67178ae7, type: 3}
+    sprite: {fileID: -7783437513647718680, guid: 836f512503184d14bb08a634c41f7565, type: 3}
   - name: 4
     health: 30
     speed: 0
-    sprite: {fileID: -8585762769051335824, guid: afaacce3a10f0ff48b35c94063cadfd8, type: 3}
+    sprite: {fileID: 2360490374400198724, guid: 836f512503184d14bb08a634c41f7565, type: 3}
   - name: 5
     health: 40
     speed: 0
-    sprite: {fileID: 1954507895, guid: cd00b0b98796b7040924459f67178ae7, type: 3}
+    sprite: {fileID: -6923637486067821307, guid: 836f512503184d14bb08a634c41f7565, type: 3}
   - name: 6
     health: 50
     speed: 0
-    sprite: {fileID: -946186816831654770, guid: cd00b0b98796b7040924459f67178ae7, type: 3}
+    sprite: {fileID: 5591917615992662062, guid: 836f512503184d14bb08a634c41f7565, type: 3}
