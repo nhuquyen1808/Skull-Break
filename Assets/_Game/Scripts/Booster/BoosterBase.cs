@@ -23,7 +23,7 @@ public class BoosterBase : MonoBehaviour
         if (coin < coinCost)
         {
             Debug.Log("Not enough coin");
-            ShopController.Instance.Show();
+          //  ShopController.Instance.Show();
 
             return;
         }
