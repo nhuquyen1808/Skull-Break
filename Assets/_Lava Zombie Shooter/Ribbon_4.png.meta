@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: ca2ba3ef49471ef4ca67de91aeaf7cde
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8364279915608082869
+    second: Ribbon_4_0
+  - first:
+      213: 6902399016406235018
+    second: Ribbon_4_1
+  - first:
+      213: -7354238455009258315
+    second: Ribbon_4_2
+  - first:
+      213: -4230714110484669069
+    second: Ribbon_4_3
+  - first:
+      213: -8874538099401661773
+    second: Ribbon_4_4
+  - first:
+      213: 1748578802927993433
+    second: Ribbon_4_5
+  - first:
+      213: 5267680150856130952
+    second: Ribbon_4_6
+  - first:
+      213: 6339612341839133285
+    second: Ribbon_4_7
+  - first:
+      213: 821942939070321800
+    second: Ribbon_4_8
+  - first:
+      213: 5761487244364261313
+    second: Ribbon_4_9
+  - first:
+      213: 7186960827348744618
+    second: Ribbon_4_10
+  - first:
+      213: 2822358468377000613
+    second: Ribbon_4_11
+  - first:
+      213: 5283572122097767694
+    second: Ribbon_4_12
+  - first:
+      213: -5715429973667315075
+    second: Ribbon_4_13
+  - first:
+      213: 3720961652945826265
+    second: Ribbon_4_14
+  - first:
+      213: 3932957080915824319
+    second: Ribbon_4_15
+  - first:
+      213: 5922294410074483196
+    second: Ribbon_4_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ribbon_4_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 904
+        width: 134
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b901c37444e31470800000000000000
+      internalID: 8364279915608082869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribbon_4_1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 909
+        width: 75
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8736eeb55f3acf50800000000000000
+      internalID: 6902399016406235018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribbon_4_2
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 895
+        width: 98
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4d7afe61f70f990800000000000000
+      internalID: -7354238455009258315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribbon_4_3
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 951
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d145a8eeb7945c0800000000000000
+      internalID: -4230714110484669069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribbon_4_4
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 897
+        width: 57
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b26e7f2e9e47d480800000000000000
+      internalID: -8874538099401661773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribbon_4_5
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1
+        width: 874
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9520d4a2823344810800000000000000
+      internalID: 1748578802927993433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribbon_4_6
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 907
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881e726103f8a1940800000000000000
+      internalID: 5267680150856130952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribbon_4_7
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 905
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56af00116d3daf750800000000000000
+      internalID: 6339612341839133285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribbon_4_8
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 915
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8845dec8fb0286b00800000000000000
+      internalID: 821942939070321800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribbon_4_9
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 898
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7a6428f1ae4ff40800000000000000
+      internalID: 5761487244364261313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribbon_4_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 761
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9f4c85bc63db360800000000000000
+      internalID: 7186960827348744618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribbon_4_11
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 845
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa3d60d2180b2720800000000000000
+      internalID: 2822358468377000613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribbon_4_12
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 878
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e055bcaf9d4035940800000000000000
+      internalID: 5283572122097767694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribbon_4_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 559
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7280f878b6bea0b0800000000000000
+      internalID: -5715429973667315075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribbon_4_14
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 558
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1bfaaa8e283a330800000000000000
+      internalID: 3720961652945826265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribbon_4_15
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 750
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe48dc90aba49630800000000000000
+      internalID: 3932957080915824319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribbon_4_16
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 119
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf965c76367303250800000000000000
+      internalID: 5922294410074483196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ribbon_4_0: 8364279915608082869
+      Ribbon_4_1: 6902399016406235018
+      Ribbon_4_10: 7186960827348744618
+      Ribbon_4_11: 2822358468377000613
+      Ribbon_4_12: 5283572122097767694
+      Ribbon_4_13: -5715429973667315075
+      Ribbon_4_14: 3720961652945826265
+      Ribbon_4_15: 3932957080915824319
+      Ribbon_4_16: 5922294410074483196
+      Ribbon_4_2: -7354238455009258315
+      Ribbon_4_3: -4230714110484669069
+      Ribbon_4_4: -8874538099401661773
+      Ribbon_4_5: 1748578802927993433
+      Ribbon_4_6: 5267680150856130952
+      Ribbon_4_7: 6339612341839133285
+      Ribbon_4_8: 821942939070321800
+      Ribbon_4_9: 5761487244364261313
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
