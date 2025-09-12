@@ -26,7 +26,7 @@ public class CoinBar : MonoBehaviour
     private void OnClickCoinButton()
     {
         Debug.Log(PopupShop.instance);
-        ShopController.Instance.Show();
+        //ShopController.Instance.Show();
     }
 
 

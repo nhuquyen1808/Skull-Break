@@ -9,10 +9,10 @@ namespace UnityEngine.Purchasing.Security {
 
         public static readonly bool IsPopulated = false;
 
-        public static byte[] Data() {
+        /*public static byte[] Data() {
         	if (IsPopulated == false)
         		return null;
             return Obfuscator.DeObfuscate(data, order, key);
-        }
+        }*/
     }
 }
