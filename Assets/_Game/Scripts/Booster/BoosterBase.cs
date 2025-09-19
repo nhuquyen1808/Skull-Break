@@ -27,8 +27,10 @@ public class BoosterBase : MonoBehaviour
 
             return;
         }
-        DatabaseController.Instance.Coin -= coinCost; // Decrease the coin count
-        GameplayUI.Instance.UpdateCoin();
+        DatabaseController.Instance.Coin -= coinCost;
+        // Decrease the coin count
+      //  GameplayUI.Instance.UpdateCoin();
+      CoinBar.instance.UpdateCoin();
         OnSuccess();
     }
     protected virtual void OnSuccess() { }
