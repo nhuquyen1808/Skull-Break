@@ -102,10 +102,10 @@ public class IAPController : Singleton<IAPController>, IStoreListener
         if (!IsInitialized()) return;
 
         var apple = storeExtensionProvider.GetExtension<IAppleExtensions>();
-        apple.RestoreTransactions((success) =>
+        /*apple.RestoreTransactions((success) =>
         {
             Debug.Log("RestorePurchases: " + success);
-        });
+        });*/
     }
 
     public void OnInitialized(IStoreController controller, IExtensionProvider extensions)

@@ -29,13 +29,13 @@ public class ShopController : Singleton<ShopController>
     }
     public void Show()
     {
-      //  shopUI.gameObject.SetActive(true);
+        shopUI.gameObject.SetActive(true);
         isOpen = true;
     }
 
     public void Hide()
     {
-       // shopUI.gameObject.SetActive(false);
+        shopUI.gameObject.SetActive(false);
         isOpen = false;
     }
 
