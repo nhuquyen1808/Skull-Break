@@ -1,4 +1,4 @@
-//--------------------------------------------------------------------------------------------------------------------------------
+/*//--------------------------------------------------------------------------------------------------------------------------------
 // Cartoon FX
 // (c) 2012-2020 Jean Moreno
 //--------------------------------------------------------------------------------------------------------------------------------
@@ -96,7 +96,7 @@ namespace CartoonFX
 
 							if(line.Contains("/*"))
 								insideCommentBlock = true;
-							if(line.Contains("*/"))
+							if(line.Contains("#1#"))
 								insideCommentBlock = false;
 
 							//finished properties block?
@@ -405,7 +405,7 @@ namespace CartoonFX
 			/*
 			string n = propName + "_" + name;
 			return n.Replace(' ', '_').ToUpperInvariant();
-			*/
+			#1#
 		}
 	}
 
@@ -589,4 +589,4 @@ namespace CartoonFX
 			return false;
 		}
 	}
-}
+}*/
