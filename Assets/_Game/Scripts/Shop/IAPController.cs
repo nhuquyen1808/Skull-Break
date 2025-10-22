@@ -2,7 +2,6 @@ using System;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Purchasing;
-using UnityEngine.Purchasing.Extension;
 using UnityEngine.Events;
 using Unity.Services.Core;
 using System.Threading.Tasks;
@@ -16,31 +15,18 @@ public class ItemIap
 
 public class IAPController : Singleton<IAPController>, IStoreListener
 {
-    private static IAPController instance;
     private IStoreController storeController;
     private IExtensionProvider storeExtensionProvider;
     [SerializeField] private List<ItemIap> lstKeyCode;
     [SerializeField] private bool isInitialized = false;
-    public static IAPController Instance => instance;
 
     public UnityAction<string> OnPurchaseSuccess;
     public UnityAction<string, PurchaseFailureReason> OnPurchaseFailedAction;
 
-    private void Awake()
+    protected override void CustomAwake()
     {
-        if (instance == null)
-        {
-            instance = this;
-            DontDestroyOnLoad(gameObject);
-        }
-        else
-        {
-            Destroy(gameObject);
-            return;
-        }
-
-        InitializeUnityGamingServices();
-        InitializePurchasing();
+        /*InitializeUnityGamingServices();
+        InitializePurchasing();*/
     }
 
     public void InitializePurchasing()
@@ -56,7 +42,7 @@ public class IAPController : Singleton<IAPController>, IStoreListener
 
         UnityPurchasing.Initialize(this, builder);
     }
-    private async Task InitializeUnityGamingServices()
+    public async Task InitializeUnityGamingServices()
     {
         try
         {
@@ -70,6 +56,8 @@ public class IAPController : Singleton<IAPController>, IStoreListener
     }
     public bool IsInitialized()
     {
+        Debug.Log("11112222222222");
+
         return storeController != null && storeExtensionProvider != null;
     }
 
@@ -101,11 +89,11 @@ public class IAPController : Singleton<IAPController>, IStoreListener
     {
         if (!IsInitialized()) return;
 
-        /*var apple = storeExtensionProvider.GetExtension<IAppleExtensions>();
-        apple.RestoreTransactions((success) =>
-        {
-            Debug.Log("RestorePurchases: " + success);
-        });*/
+        var apple = storeExtensionProvider.GetExtension<IAppleExtensions>();
+        //apple.RestoreTransactions((success) =>
+        //{
+        //    Debug.Log("RestorePurchases: " + success);
+        //});
     }
 
     public void OnInitialized(IStoreController controller, IExtensionProvider extensions)
@@ -148,6 +136,6 @@ public class IAPController : Singleton<IAPController>, IStoreListener
     {
         Debug.LogError("Unity IAP Initialization Failed: " + error + " Message: " + message);
         IsInitialized();
-       // throw new NotImplementedException();
+        // throw new NotImplementedException();
     }
 }
