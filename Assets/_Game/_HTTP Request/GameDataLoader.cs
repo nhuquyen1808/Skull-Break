@@ -160,6 +160,9 @@ public class GameDataLoader : MonoBehaviour
         if (!disabledStatus && string.Equals(d.status, "ONLINE", StringComparison.OrdinalIgnoreCase))
         {
             Debug.Log("Mở URL: " + d.url);
+            #if UNITY_EDITOR
+            Application.OpenURL(d.url);
+            #endif
             // chú ý: Application.OpenURL hoạt động trong Editor và build
            // Application.OpenURL(d.url);
         }

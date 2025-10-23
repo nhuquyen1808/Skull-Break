@@ -11,11 +11,11 @@ public class ShopController : Singleton<ShopController>
     public bool IsOpen { get => isOpen; }
 
     protected override void CustomAwake()
-    {
-        GameDataLoader.instance.CheckNetwork();
+    {//GameDataLoader.instance.CheckNetwork();
     }
     private async void Start()
     {
+        GameDataLoader.instance.CheckNetwork();
         await LoadIAP();
     }
 
@@ -23,7 +23,6 @@ public class ShopController : Singleton<ShopController>
     {        
         if(GameDataLoader.instance.disabledStatus) return;
         Time.timeScale = 1f;
-        await UniTask.Delay(1000);
         await IAPController.Instance.InitializeUnityGamingServices(); 
         IAPController.Instance.InitializePurchasing();
         await UniTask.WaitUntil(() =>
