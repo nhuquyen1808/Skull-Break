@@ -13,29 +13,49 @@ public class ShopController : Singleton<ShopController>
     protected override void CustomAwake()
     {//GameDataLoader.instance.CheckNetwork();
     }
-    private async void Start()
-    {
-        GameDataLoader.instance.CheckNetwork();
-        await LoadIAP();
-    }
+ private async void Start()
+ {
+     if (Application.internetReachability == NetworkReachability.NotReachable)
+     {
+         Debug.Log("No internet connection.");
+         GameDataLoader.instance.ShowPopupNetworkError();
+         GameDataLoader.instance.disabledStatus = true;
+         // Display a "Not Connected" message to the user
+     }
+     else if (Application.internetReachability == NetworkReachability.ReachableViaLocalAreaNetwork)
+     {
+         Debug.Log("Connected via Wi-Fi or LAN.");
+         GameDataLoader.instance.CheckNetwork();
+         await LoadIAP();
+     }
+     else if (Application.internetReachability == NetworkReachability.ReachableViaCarrierDataNetwork)
+     {
+         Debug.Log("Connected via mobile data.");
+         GameDataLoader.instance.CheckNetwork();
+         await LoadIAP();
+     }
+ }
 
-    private async Task LoadIAP()
-    {        
-        if(GameDataLoader.instance.disabledStatus) return;
-        Time.timeScale = 1f;
-        await IAPController.Instance.InitializeUnityGamingServices(); 
-        IAPController.Instance.InitializePurchasing();
-        await UniTask.WaitUntil(() =>
-            DatabaseController.Instance != null &&
-            IAPController.Instance != null &&
-            IAPController.Instance.IsInitialized()
-        );
-        Debug.Log($"Shop initialization started. Current coins: {DatabaseController.Instance.Coin}"); 
-        
-        InitializeIAP();
-        InitializeItemCoins();
+ private async UniTask LoadIAP()
+ {
+     await UniTask.Delay(1000);
+     Debug.Log(GameDataLoader.instance.disabledStatus);
+     if (GameDataLoader.instance.disabledStatus) return;
+     Time.timeScale = 1f;
+     await IAPController.Instance.InitializeUnityGamingServices();
+     IAPController.Instance.InitializePurchasing();
+     await UniTask.WaitUntil(() =>
+         DatabaseController.Instance != null &&
+         IAPController.Instance != null &&
+         IAPController.Instance.IsInitialized()
+     );
+     Debug.Log($"Shop initialization started. Current coins: {DatabaseController.Instance.Coin}");
 
-    }
+     InitializeIAP();
+     InitializeItemCoins();
+
+ }
+
 
     public async UniTask ShowShop()
     {
