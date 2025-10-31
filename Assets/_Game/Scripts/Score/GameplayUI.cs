@@ -37,7 +37,6 @@ public class GameplayUI : Singleton<GameplayUI>
         }*//*
         txtLevel.text = $"Level {DatabaseController.Instance.Level}"; // Set the level text to the current level
         Debug.Log($"Current Level: {DatabaseController.Instance.Level}");*/
-        UpdateCoin();
 
     }
 

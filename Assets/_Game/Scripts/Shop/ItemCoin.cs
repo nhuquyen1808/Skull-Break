@@ -28,6 +28,7 @@ public class ItemCoin : MonoBehaviour
     {
         Debug.Log($"OnSuccess: name:{gameObject.name} key:{key}");
         DatabaseController.Instance.Coin += coinReceive; // Increase the coin count
-        GameplayUI.Instance.UpdateCoin();
+       // GameplayUI.Instance.UpdateCoin();
+        CoinBar.ins.UpdateCoinText();
     }
 }
