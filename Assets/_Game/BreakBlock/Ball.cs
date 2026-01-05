@@ -36,7 +36,6 @@ public class Ball : MonoBehaviour
 
     void OnCollisionEnter2D(Collision2D collision)
     {
-        Debug.Log($"Ball collided with {collision.gameObject.name} at {collision.contacts[0].point}");
         // Kiểm tra layer mask đúng cách
         if (((1 << collision.gameObject.layer) & bounceLayerMask) != 0)
         {

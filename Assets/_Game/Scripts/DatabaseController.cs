@@ -14,7 +14,7 @@ public class DatabaseController : Singleton<DatabaseController>
         set
         {
             coin = value;
-            PlayerPrefs.SetInt(DBKey.COIN, coin);
+            PlayerPrefs.SetInt(DBKeyThisGame.COIN, coin);
             PlayerPrefs.Save();
         }
     }    private int ball;
@@ -24,7 +24,7 @@ public class DatabaseController : Singleton<DatabaseController>
         set
         {
             ball = value;
-            PlayerPrefs.SetInt(DBKey.BALL, ball);
+            PlayerPrefs.SetInt(DBKeyThisGame.BALL, ball);
             PlayerPrefs.Save();
         }
     }
@@ -37,7 +37,7 @@ public class DatabaseController : Singleton<DatabaseController>
         {
             level = value;
             Debug.Log($"Level: {level}");
-            PlayerPrefs.SetInt(DBKey.LEVEL, level);
+            PlayerPrefs.SetInt(DBKeyThisGame.LEVEL, level);
             PlayerPrefs.Save();
         }
     }
@@ -49,31 +49,31 @@ public class DatabaseController : Singleton<DatabaseController>
         set
         {
             bestTime = value;
-            PlayerPrefs.SetInt(DBKey.BEST_TIME, bestTime);
+            PlayerPrefs.SetInt(DBKeyThisGame.BEST_TIME, bestTime);
             PlayerPrefs.Save();
         }
     }  
 
     public void CheckDependence()
     {
-        if (!PlayerPrefs.HasKey(DBKey.COIN))
+        if (!PlayerPrefs.HasKey(DBKeyThisGame.COIN))
         {
-            PlayerPrefs.SetInt(DBKey.COIN, 500);
+            PlayerPrefs.SetInt(DBKeyThisGame.COIN, 500);
             PlayerPrefs.Save();
         } 
-        if (!PlayerPrefs.HasKey(DBKey.BALL))
+        if (!PlayerPrefs.HasKey(DBKeyThisGame.BALL))
         {
-            PlayerPrefs.SetInt(DBKey.BALL, 5);
+            PlayerPrefs.SetInt(DBKeyThisGame.BALL, 5);
             PlayerPrefs.Save();
         }
-        if (!PlayerPrefs.HasKey(DBKey.LEVEL))
+        if (!PlayerPrefs.HasKey(DBKeyThisGame.LEVEL))
         {
-            PlayerPrefs.SetInt(DBKey.LEVEL, 1); // Default level is 1
+            PlayerPrefs.SetInt(DBKeyThisGame.LEVEL, 1); // Default level is 1
             PlayerPrefs.Save();
         }
-        if (!PlayerPrefs.HasKey(DBKey.BEST_TIME))
+        if (!PlayerPrefs.HasKey(DBKeyThisGame.BEST_TIME))
         {
-            PlayerPrefs.SetInt(DBKey.BEST_TIME, 1000); // Default level is 1
+            PlayerPrefs.SetInt(DBKeyThisGame.BEST_TIME, 1000); // Default level is 1
             PlayerPrefs.Save();
         }
 
@@ -82,10 +82,10 @@ public class DatabaseController : Singleton<DatabaseController>
     // Load data from PlayerPrefs
     public void Load()
     {
-        coin = Load<int>(DBKey.COIN); // Default coin is 500
-        ball = Load<int>(DBKey.BALL); // Default coin is 500
-        level = Load<int>(DBKey.LEVEL); // Default level is 1
-        bestTime = Load<int>(DBKey.BEST_TIME); // Default level is 1
+        coin = Load<int>(DBKeyThisGame.COIN); // Default coin is 500
+        ball = Load<int>(DBKeyThisGame.BALL); // Default coin is 500
+        level = Load<int>(DBKeyThisGame.LEVEL); // Default level is 1
+        bestTime = Load<int>(DBKeyThisGame.BEST_TIME); // Default level is 1
     }
     private T Load<T>(string key)
     {
@@ -107,7 +107,7 @@ public class DatabaseController : Singleton<DatabaseController>
     }
 }
 
-public static class DBKey
+public static class DBKeyThisGame
 {
     public const string COIN = "COIN";
     public const string BALL = "BALL";

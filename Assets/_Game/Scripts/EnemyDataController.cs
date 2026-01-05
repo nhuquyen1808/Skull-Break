@@ -16,10 +16,8 @@ public class EnemyDataController : MonoBehaviour
         EnymyData enymyData = data.GetEnemyData(type);
         if (enymyData == null)
         {
-            Debug.LogWarning($"No data found for block type: {type}");
             return null; // Trả về null nếu không tìm thấy dữ liệu cho loại block
         }
-        Debug.Log($"GetBlockImageByType: {type}, Health: {enymyData.health}, Speed: {enymyData.speed}");
         return enymyData; // Trả về dữ liệu của loại block
     }
 }

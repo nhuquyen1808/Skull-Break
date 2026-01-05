@@ -1,4 +1,5 @@
-﻿using Cysharp.Threading.Tasks;
+﻿using BreakBlock;
+using Cysharp.Threading.Tasks;
 using TMPro;
 using UnityEngine;
 using UnityEngine.SceneManagement;
@@ -56,7 +57,7 @@ public class GameplayController : Singleton<GameplayController>
         parWin.Play();
         await UniTask.Delay(1000);
 
-        PopupController.Instance.ShowPopup(PopupType.LevelComplete);
+        PopupControllerNew.Instance.ShowPopup(PopupType.LevelComplete);
     }
     public async UniTask OnGameOver()
     {
@@ -66,7 +67,7 @@ public class GameplayController : Singleton<GameplayController>
           SoundController.Instance.PlaySound(SoundName.Down);
         Debug.Log("Game Over");
         await UniTask.Delay(1000);
-        PopupController.Instance.ShowPopup(PopupType.Lose);
+        PopupControllerNew.Instance.ShowPopup(PopupType.Lose);
     }
     public void OnShoot()
     {

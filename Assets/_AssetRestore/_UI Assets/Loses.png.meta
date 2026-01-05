@@ -1,0 +1,333 @@
+fileFormatVersion: 2
+guid: fa07c8ff3c9e2634b9e356e70099983d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Loses_10
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1254
+        width: 949
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df040faa25c147a4584593bfc439d47e
+      internalID: 1609068622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loses_35
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 972
+        width: 887
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e066c012f006b4cbf32736e61efc89
+      internalID: 1854887172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loses_77
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 696
+        width: 900
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c72020ffdf62c4428c351742b88b038
+      internalID: 1504497519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loses_78
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 414
+        width: 886
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6378c62246fc449bba2d2fbd87fb0d
+      internalID: 336429381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loses_79
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 126
+        width: 893
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937708bb2610028428eae899c4ff8274
+      internalID: -514763959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Loses_0: 1471845415
+      Loses_1: 1432616041
+      Loses_10: 1609068622
+      Loses_11: -1924221661
+      Loses_12: -1651058619
+      Loses_13: 1906385790
+      Loses_14: -883865194
+      Loses_15: -100159070
+      Loses_16: 1714575900
+      Loses_17: 878524390
+      Loses_18: 2030513334
+      Loses_19: 294966206
+      Loses_2: -336706454
+      Loses_20: -45760821
+      Loses_21: -726295552
+      Loses_22: 1170815467
+      Loses_23: -1950631342
+      Loses_24: -1393431302
+      Loses_25: -1465605562
+      Loses_26: 1831931701
+      Loses_27: 1484320632
+      Loses_28: -614562896
+      Loses_29: -19031260
+      Loses_3: 1768831956
+      Loses_30: 552362113
+      Loses_31: 1743098363
+      Loses_32: 1597687586
+      Loses_33: -1278944162
+      Loses_34: -862258864
+      Loses_35: 1854887172
+      Loses_36: 389796972
+      Loses_37: -756010263
+      Loses_38: 11508179
+      Loses_39: 973988659
+      Loses_4: -663369732
+      Loses_40: 141476636
+      Loses_41: 1088317796
+      Loses_42: 104588715
+      Loses_43: -688266765
+      Loses_44: -1814134210
+      Loses_45: -163438087
+      Loses_46: -451616204
+      Loses_47: 1580078826
+      Loses_48: 1305870672
+      Loses_49: -1367576657
+      Loses_5: 894101523
+      Loses_50: 1623134206
+      Loses_51: 121000171
+      Loses_52: 1111347710
+      Loses_53: 818823129
+      Loses_54: -1240818592
+      Loses_55: 72597447
+      Loses_56: -1454160140
+      Loses_57: 1268887617
+      Loses_58: 1935000454
+      Loses_59: 1608034347
+      Loses_6: 1281537149
+      Loses_60: -2074436494
+      Loses_61: -2131892082
+      Loses_62: -1662681232
+      Loses_63: 992914411
+      Loses_64: -2034611856
+      Loses_65: -1177164834
+      Loses_66: -862339929
+      Loses_67: 1333951643
+      Loses_68: -2023030336
+      Loses_69: -1252665397
+      Loses_7: 1499643293
+      Loses_70: 1851493176
+      Loses_71: 484845092
+      Loses_72: 66719212
+      Loses_73: 125601891
+      Loses_74: -580281378
+      Loses_75: -161594422
+      Loses_76: 2029033128
+      Loses_77: 1504497519
+      Loses_78: 336429381
+      Loses_79: -514763959
+      Loses_8: 1002504481
+      Loses_9: -629893074
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

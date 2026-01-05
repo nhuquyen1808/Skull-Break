@@ -2,11 +2,15 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PopupController : Singleton<PopupController>
+namespace BreakBlock
 {
-    [SerializeField] private List<PopupBase> popups;
-    public void ShowPopup(PopupType popupType)
+    public class PopupControllerNew : Singleton<PopupControllerNew>
     {
-        popups.Find(p => p.PopupType == popupType).Show();
+        [SerializeField] private List<PopupBase> popups;
+        public void ShowPopup(PopupType popupType)
+        {
+            popups.Find(p => p.PopupType == popupType).Show();
+        }
     }
+
 }

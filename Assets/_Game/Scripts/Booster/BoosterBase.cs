@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using IAP_Dev;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
@@ -19,7 +20,7 @@ public class BoosterBase : MonoBehaviour
             return; // Không làm gì nếu board không sẵn sàng
         }
         Debug.Log($"OnClickUseBooster: name:{gameObject.name}");
-        var coin =DatabaseController.Instance.Coin; // Get the current coin value from the database
+        var coin = PlayerPrefs.GetFloat("coin"); // Get the current coin value from the database
         if (coin < coinCost)
         {
             Debug.Log("Not enough coin");
@@ -27,9 +28,10 @@ public class BoosterBase : MonoBehaviour
 
             return;
         }
-        DatabaseController.Instance.Coin -= coinCost; // Decrease the coin count
+        coin -= coinCost; // Decrease the coin count
         //GameplayUI.Instance.UpdateCoin();
-        CoinBar.ins.UpdateCoinText();
+        PlayerPrefs.SetFloat("coin", coin);
+        CoinBar.instance.UpdateCoinText();
         OnSuccess();
     }
     protected virtual void OnSuccess() { }

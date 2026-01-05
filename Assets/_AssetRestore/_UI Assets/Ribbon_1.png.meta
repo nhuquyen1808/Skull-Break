@@ -1,0 +1,428 @@
+fileFormatVersion: 2
+guid: 3a698593bbd8e5d44b4c471146808e39
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ribbon_1_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1089
+        width: 399
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de651b5991a7064bb36ee71c12c6c23
+      internalID: 368466197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribbon_1_6
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1098
+        width: 410
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb4f9d4fd2a6c94eb7f26c55caa24ab
+      internalID: -1701057315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribbon_1_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 749
+        width: 432
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d828a0b0c94f1049b360e999ca725a3
+      internalID: 712883677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribbon_1_10
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 762
+        width: 431
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5199decb9d34e4d9b8e87350bca2a4
+      internalID: -234000549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribbon_1_11
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 414
+        width: 437
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671f020fdefb4074aa632628aadf4afb
+      internalID: 2135630867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribbon_1_13
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 467
+        width: 315
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617401a0347c67e498f3b937a8a42e9e
+      internalID: 1886364538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribbon_1_15
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 156
+        width: 353
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c43bf295ed60c46af90bf8be76c368
+      internalID: -1306518762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribbon_1_18
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 168
+        width: 371
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3f6707ba8e3b442985735e0548f715
+      internalID: -393714352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribbon_1_63
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 168
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64b5c4005c6efb4a9442ca1bbce8ac7
+      internalID: 1087493483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ribbon_1_0: -1057714066
+      Ribbon_1_1: -509170199
+      Ribbon_1_10: -234000549
+      Ribbon_1_11: 2135630867
+      Ribbon_1_12: 322333213
+      Ribbon_1_13: 1886364538
+      Ribbon_1_14: 1560855991
+      Ribbon_1_15: -1306518762
+      Ribbon_1_16: 848017780
+      Ribbon_1_17: -701490810
+      Ribbon_1_18: -393714352
+      Ribbon_1_19: -328595575
+      Ribbon_1_2: 368466197
+      Ribbon_1_20: -1582145747
+      Ribbon_1_21: -534206446
+      Ribbon_1_22: -1307854720
+      Ribbon_1_23: -247957116
+      Ribbon_1_24: -1167846657
+      Ribbon_1_25: 512974365
+      Ribbon_1_26: -1455036378
+      Ribbon_1_27: 865301122
+      Ribbon_1_28: 1761545902
+      Ribbon_1_29: -1371910855
+      Ribbon_1_3: -524955563
+      Ribbon_1_30: -618757151
+      Ribbon_1_31: -1424175721
+      Ribbon_1_32: -1926352286
+      Ribbon_1_33: -1912604255
+      Ribbon_1_34: -945606123
+      Ribbon_1_35: -1513916278
+      Ribbon_1_36: -869056916
+      Ribbon_1_37: 87023256
+      Ribbon_1_38: -905332673
+      Ribbon_1_39: -814272616
+      Ribbon_1_4: -986359654
+      Ribbon_1_40: -212054135
+      Ribbon_1_41: -1549909417
+      Ribbon_1_42: -2064653121
+      Ribbon_1_43: -1242902402
+      Ribbon_1_44: 1170366870
+      Ribbon_1_45: 1008474532
+      Ribbon_1_46: 1972720904
+      Ribbon_1_47: 783105973
+      Ribbon_1_48: -305362647
+      Ribbon_1_49: 1041808691
+      Ribbon_1_5: 63302382
+      Ribbon_1_50: -694640595
+      Ribbon_1_51: -973939096
+      Ribbon_1_52: 2084277369
+      Ribbon_1_53: -636776910
+      Ribbon_1_54: 488491136
+      Ribbon_1_55: 1188931832
+      Ribbon_1_56: 849160799
+      Ribbon_1_57: 341354471
+      Ribbon_1_58: 1275507903
+      Ribbon_1_59: 844333312
+      Ribbon_1_6: -1701057315
+      Ribbon_1_60: -1579075192
+      Ribbon_1_61: 1842341692
+      Ribbon_1_62: 371455658
+      Ribbon_1_63: 1087493483
+      Ribbon_1_64: 2069054581
+      Ribbon_1_65: 56787435
+      Ribbon_1_66: -2056078833
+      Ribbon_1_67: 1474557652
+      Ribbon_1_68: -175350944
+      Ribbon_1_69: 1196312203
+      Ribbon_1_7: 642248155
+      Ribbon_1_70: -1304429551
+      Ribbon_1_71: 292041743
+      Ribbon_1_72: 1685209068
+      Ribbon_1_73: 1842293299
+      Ribbon_1_74: 782050329
+      Ribbon_1_75: 690962817
+      Ribbon_1_76: -1839224111
+      Ribbon_1_77: 14982049
+      Ribbon_1_78: -114889350
+      Ribbon_1_79: -117128841
+      Ribbon_1_8: -2108497616
+      Ribbon_1_80: 839061188
+      Ribbon_1_81: -631630336
+      Ribbon_1_82: -2115671710
+      Ribbon_1_83: -289029546
+      Ribbon_1_84: 368306324
+      Ribbon_1_85: -626106847
+      Ribbon_1_86: -1318140139
+      Ribbon_1_9: 712883677
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

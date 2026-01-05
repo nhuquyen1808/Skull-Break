@@ -85,7 +85,6 @@ public class Block : MonoBehaviour
     }*/
     public void OnHit()
     {
-        Debug.Log($"Block {blockType} at ({column}, {row}) hit! Current value: {value}");
         value--;
         UpdateUI();
         if (value <= 0)

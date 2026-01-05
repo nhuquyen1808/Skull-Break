@@ -73,7 +73,6 @@ public class BoardController : MonoBehaviour
                     block.transform.localPosition = position;
                     block.transform.parent = boardSprite.transform;
                     int index = row * cols + col;
-                    Debug.Log($"Create block at {col}, {row} with index {index}");
                     block.Initialize(col, row, levelData.blocks[index]);
                     blocks[col, row] = block;
                     if (levelData.blocks[index].blockType != BlockType.None)
