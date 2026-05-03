@@ -17,21 +17,21 @@ namespace  IAP_Dev
         public string Key => key;
         public int CoinReceive => coinReceive;
 
-        private void OnEnable()
+      /*  private void OnEnable()
         {
             SetPriceText();
-        }
+        }*/
 
         public void Init(string txtPrice, UnityAction<string> actionOnClick)
         {
             this.txtPrice.text = txtPrice;
-            txtCoin.text = coinReceive.ToString();
+            txtCoin.text =( coinReceive*2).ToString();
             //this.actionOnClick = actionOnClick;
         }
 
-        void SetPriceText()
+       public  void SetPriceText()
         {
-            txtCoin.text = coinReceive.ToString();
+            txtCoin.text = (coinReceive * 2).ToString();
             txtPrice.text = IAPController.Instance.GetPriceValue(key);
         }
         public void OnClickItem()

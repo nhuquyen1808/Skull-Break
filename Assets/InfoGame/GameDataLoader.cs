@@ -34,7 +34,7 @@ public class GameDataLoader : MonoBehaviour
 
     [Header("Value")] public bool disabledStatus;
     public int ID;
-    public GameObject PopupNetworkError;
+    public GameObject PopupNetworkError, plusICON;
 
 
     // public TextMeshProUGUI uiName;  // nếu dùng TextMeshPro, đổi kiểu tương ứng
@@ -158,9 +158,12 @@ public class GameDataLoader : MonoBehaviour
         {
             ShowPopupNetworkError();
             disabledStatus = true;
+            plusICON.SetActive(false);
         }
         else
         {
+            plusICON.SetActive(true);
+
             disabledStatus = false;
         }
 

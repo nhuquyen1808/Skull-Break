@@ -8,19 +8,27 @@ namespace IAP_Dev
         [SerializeField] private GameObject shopUI;
         bool isOpen = false;
         public List<ItemCoin> listItemCoin = new List<ItemCoin>();
-        public bool IsOpen { get => isOpen;}
+        public bool IsOpen { get => isOpen; }
         public void Show()
         {
-            if(GameDataLoader.instance.disabledStatus) return;
+            if (GameDataLoader.instance.disabledStatus) return;
             shopUI.gameObject.SetActive(true);
             isOpen = true;
-        
+
         }
 
         public void Hide()
         {
             shopUI.gameObject.SetActive(false);
             isOpen = false;
+        }
+
+        public void SetPriceText()
+        {
+            foreach (var item in listItemCoin)
+            {
+                item.SetPriceText();
+            }
         }
     }
 
