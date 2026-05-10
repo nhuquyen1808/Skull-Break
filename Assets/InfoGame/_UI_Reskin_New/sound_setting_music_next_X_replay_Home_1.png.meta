@@ -1,0 +1,613 @@
+fileFormatVersion: 2
+guid: 97fa5f412d1a9cd4a985f3cbc3b703c3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4244206265501069395
+    second: sound_setting_music_next_X_replay_Home_1_0
+  - first:
+      213: 1731482420218473124
+    second: sound_setting_music_next_X_replay_Home_1_1
+  - first:
+      213: 2788478546777349540
+    second: sound_setting_music_next_X_replay_Home_1_2
+  - first:
+      213: -257681891562306036
+    second: sound_setting_music_next_X_replay_Home_1_3
+  - first:
+      213: 787284726921069090
+    second: sound_setting_music_next_X_replay_Home_1_4
+  - first:
+      213: -7315536615388305659
+    second: sound_setting_music_next_X_replay_Home_1_5
+  - first:
+      213: -7188182298949096785
+    second: sound_setting_music_next_X_replay_Home_1_6
+  - first:
+      213: -7308181453265520929
+    second: sound_setting_music_next_X_replay_Home_1_7
+  - first:
+      213: 2272934696377249820
+    second: sound_setting_music_next_X_replay_Home_1_8
+  - first:
+      213: -1568566762319763779
+    second: sound_setting_music_next_X_replay_Home_1_9
+  - first:
+      213: -8641489374832252671
+    second: sound_setting_music_next_X_replay_Home_1_10
+  - first:
+      213: 6881242370302668328
+    second: sound_setting_music_next_X_replay_Home_1_11
+  - first:
+      213: 3231198603087629858
+    second: sound_setting_music_next_X_replay_Home_1_12
+  - first:
+      213: -4842307889405372227
+    second: sound_setting_music_next_X_replay_Home_1_13
+  - first:
+      213: -3690691130172800887
+    second: sound_setting_music_next_X_replay_Home_1_14
+  - first:
+      213: 4096774891532654503
+    second: sound_setting_music_next_X_replay_Home_1_15
+  - first:
+      213: -938149105402801816
+    second: sound_setting_music_next_X_replay_Home_1_16
+  - first:
+      213: -3840236915195444468
+    second: sound_setting_music_next_X_replay_Home_1_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sound_setting_music_next_X_replay_Home_1_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 674
+        width: 212
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350bda89c1376ea30800000000000000
+      internalID: 4244206265501069395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_setting_music_next_X_replay_Home_1_1
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 673
+        width: 211
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aaa4ff5616770810800000000000000
+      internalID: 1731482420218473124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_setting_music_next_X_replay_Home_1_2
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 675
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad167cd67aa2b620800000000000000
+      internalID: 2788478546777349540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_setting_music_next_X_replay_Home_1_3
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 675
+        width: 213
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06c0645fa78c6cf0800000000000000
+      internalID: -257681891562306036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_setting_music_next_X_replay_Home_1_4
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 671
+        width: 214
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2228835b94ffcea00800000000000000
+      internalID: 787284726921069090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_setting_music_next_X_replay_Home_1_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 672
+        width: 215
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507aa6a253ef97a90800000000000000
+      internalID: -7315536615388305659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_setting_music_next_X_replay_Home_1_6
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 399
+        width: 215
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa6362a8427e3c90800000000000000
+      internalID: -7188182298949096785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_setting_music_next_X_replay_Home_1_7
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 398
+        width: 220
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6b20c40bf149a90800000000000000
+      internalID: -7308181453265520929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_setting_music_next_X_replay_Home_1_8
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 397
+        width: 215
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10f93750161b8f10800000000000000
+      internalID: 2272934696377249820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_setting_music_next_X_replay_Home_1_9
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 398
+        width: 213
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6227d17d45b3ae0800000000000000
+      internalID: -1568566762319763779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_setting_music_next_X_replay_Home_1_10
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 397
+        width: 215
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109afcab233431880800000000000000
+      internalID: -8641489374832252671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_setting_music_next_X_replay_Home_1_11
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 397
+        width: 215
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ee1473a751f7f50800000000000000
+      internalID: 6881242370302668328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_setting_music_next_X_replay_Home_1_12
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 125
+        width: 216
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ec6c7820687dc20800000000000000
+      internalID: 3231198603087629858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_setting_music_next_X_replay_Home_1_13
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 126
+        width: 212
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8dbe651aaacccb0800000000000000
+      internalID: -4842307889405372227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_setting_music_next_X_replay_Home_1_14
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 126
+        width: 215
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9808d52a8f708ccc0800000000000000
+      internalID: -3690691130172800887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_setting_music_next_X_replay_Home_1_15
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 125
+        width: 215
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a71b86ee0baad830800000000000000
+      internalID: 4096774891532654503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_setting_music_next_X_replay_Home_1_16
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 124
+        width: 214
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8619d12fb560bf2f0800000000000000
+      internalID: -938149105402801816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_setting_music_next_X_replay_Home_1_17
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 125
+        width: 214
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c030f604fdcb4bac0800000000000000
+      internalID: -3840236915195444468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8e97f6ae0599049478d309fa78ea07ed
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      sound_setting_music_next_X_replay_Home_1_0: 4244206265501069395
+      sound_setting_music_next_X_replay_Home_1_1: 1731482420218473124
+      sound_setting_music_next_X_replay_Home_1_10: -8641489374832252671
+      sound_setting_music_next_X_replay_Home_1_11: 6881242370302668328
+      sound_setting_music_next_X_replay_Home_1_12: 3231198603087629858
+      sound_setting_music_next_X_replay_Home_1_13: -4842307889405372227
+      sound_setting_music_next_X_replay_Home_1_14: -3690691130172800887
+      sound_setting_music_next_X_replay_Home_1_15: 4096774891532654503
+      sound_setting_music_next_X_replay_Home_1_16: -938149105402801816
+      sound_setting_music_next_X_replay_Home_1_17: -3840236915195444468
+      sound_setting_music_next_X_replay_Home_1_2: 2788478546777349540
+      sound_setting_music_next_X_replay_Home_1_3: -257681891562306036
+      sound_setting_music_next_X_replay_Home_1_4: 787284726921069090
+      sound_setting_music_next_X_replay_Home_1_5: -7315536615388305659
+      sound_setting_music_next_X_replay_Home_1_6: -7188182298949096785
+      sound_setting_music_next_X_replay_Home_1_7: -7308181453265520929
+      sound_setting_music_next_X_replay_Home_1_8: 2272934696377249820
+      sound_setting_music_next_X_replay_Home_1_9: -1568566762319763779
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
