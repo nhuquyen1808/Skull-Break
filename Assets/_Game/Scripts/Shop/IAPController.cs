@@ -18,17 +18,17 @@ namespace IAP_Dev
 
     public class IAPController : Singleton<IAPController>
     {
-        StoreController m_StoreController;
+        [Header("key infomation : ")]
+        public string primaryKEY = "";
+        public int amount;
 
+        StoreController m_StoreController;
         [SerializeField] private List<ItemIap> lstKeyCode;
 
+        [SerializeField]  string GameID;
+        [SerializeField]  string GameName;
         // [SerializeField] private bool isInitialized = false;
         public Action<bool> OnPurchaseSuccess;
-
-        protected override void CustomAwake()
-        {
-            // InitializeIAP();
-        }
 
         private void Start()
         {
@@ -63,7 +63,7 @@ namespace IAP_Dev
             {
                 InitializeIAP();
                 yield return new WaitForSeconds(.5f);
-                ShopController.Instance.SetPriceText();
+
             }
         }
 
@@ -80,6 +80,8 @@ namespace IAP_Dev
 
             m_StoreController.OnProductsFetchFailed += OnProductsFetchedFailed;
             m_StoreController.OnProductsFetched += OnProductsFetched;
+
+            m_StoreController.OnPurchaseDeferred += OnPurchaseDeferred;
             FetchProducts();
         }
 
@@ -118,8 +120,7 @@ namespace IAP_Dev
                 return;
             }
 
-            OnPurchaseSuccess?.Invoke(true);
-            Debug.Log($"Purchase complete - Product: {product.definition.id}");
+            Debug.Log($"Purchase pending - Product: {product.definition.id}");
             m_StoreController.ConfirmPurchase(order);
         }
 
@@ -134,20 +135,9 @@ namespace IAP_Dev
                     OnPurchaseConfirmationFailed(failedOrder);
                     break;
                 default:
-                    //OnPurchaseSuccess?.Invoke(true);
                     Debug.Log("Unknown OnPurchaseConfirmed result.");
                     break;
             }
-            // if (order is FailedOrder failedOrder)
-            // {
-            //     Debug.Log("Purchase False");
-            //     OnPurchaseSuccess?.Invoke(false);
-            // }
-            // else
-            // {
-            //     Debug.Log("Purchase complete");
-            //     OnPurchaseSuccess?.Invoke(true);
-            // }
         }
 
         void OnPurchaseConfirmed(ConfirmedOrder order)
@@ -220,6 +210,34 @@ namespace IAP_Dev
                 Debug.Log("Product not found");
                 return "Loading...";
             }
+        }
+        void OnPurchaseDeferred(DeferredOrder order)
+        {
+            var product = GetFirstProductInOrder(order);
+            Debug.Log($"Purchase deferred - Product: {product?.definition.id}");
+        }
+
+     
+
+        public void CreateKeyCode()
+        {
+            lstKeyCode.Clear();
+            if (lstKeyCode.Any(k => k.key == primaryKEY))
+            {
+                Debug.Log("Key already exists.");
+                return;
+            }
+            for (int i = 0; i < amount; i++)
+            {
+                lstKeyCode.Add(new ItemIap { key = primaryKEY + "_pack_" + (i+1), productType = ProductType.Consumable });
+
+            }
+        }
+
+        public void GetGameInfor()
+        {
+             GameID = Application.identifier;
+             GameName = Application.productName;
         }
     }
 }

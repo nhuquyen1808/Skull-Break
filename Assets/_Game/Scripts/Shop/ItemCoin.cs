@@ -12,38 +12,56 @@ namespace  IAP_Dev
         [SerializeField] private int coinReceive;
         [SerializeField] private Text txtPrice;
         [SerializeField] private Text txtCoin;
+
+        [Header("Editor")]
+        public Image coinICON;
+
+
         //UnityAction<string> actionOnClick;
+        public string Key
+        {
+            get => key;
+            set
+            {
+                key = value;
+                transform.name = key;
+            }
+        }
+        public int CoinReceive
+        {
+            get => coinReceive;
+            set
+            {
+                coinReceive = value;
+                txtCoin.text = (coinReceive).ToString();
+            }
+        } 
 
-        public string Key => key;
-        public int CoinReceive => coinReceive;
-
-      /*  private void OnEnable()
+        private void OnEnable()
         {
             SetPriceText();
-        }*/
+        }
 
         public void Init(string txtPrice, UnityAction<string> actionOnClick)
         {
             this.txtPrice.text = txtPrice;
-            txtCoin.text =( coinReceive*2).ToString();
+            txtCoin.text = (coinReceive).ToString();
             //this.actionOnClick = actionOnClick;
         }
 
-       public  void SetPriceText()
+        void SetPriceText()
         {
-            txtCoin.text = (coinReceive * 2).ToString();
+            txtCoin.text = (coinReceive).ToString();
             txtPrice.text = IAPController.Instance.GetPriceValue(key);
         }
         public void OnClickItem()
         {
-            Debug.Log($"OnClickItem: name:{gameObject.name} key:{key}");
+          // Debug.Log($"OnClickItem: name:{gameObject.name} key:{key}");
             //actionOnClick?.Invoke(key);
             IAPController.Instance.BuyProduct(key, (success) =>
             {
                 if (success)
                 {
-                    Debug.Log($"OnSuccess: name:{gameObject.name} key:{key}");
-                    //UIInteract.ins.UpdateCoin(coinReceive);
                     OnSuccess();
                 }
                 else
@@ -51,6 +69,7 @@ namespace  IAP_Dev
                     Debug.Log($"Buy Iap False: name:{gameObject.name} key:{key}");
                 }
             });
+           // AudioManager.instance.PlaySound("Click");
         }
         public void OnSuccess()
         {
@@ -58,9 +77,21 @@ namespace  IAP_Dev
             var coin =  PlayerPrefs.GetFloat("coin");
             coin += coinReceive;
             PlayerPrefs.SetFloat("coin", coin);
-            CoinBar.instance.UpdateCoinText();
-            // AudioManager.instance.PlaySound("Cash");
+            CoinBar.instance.UpdateCoinText(); 
+           // AudioManager.instance.PlaySound("Cash");
         }
+
+        public void UpdateICONCoin(Sprite icon)
+        {
+            coinICON.sprite = icon;
+        }
+
+        public void UpdateKeyItem(int id)
+        {
+            Key = IAPController.Instance.primaryKEY+"_pack_"+(id+1);;
+            key = IAPController.Instance.primaryKEY+"_pack_"+(id+1);;
+        }
+
     }
 
 }

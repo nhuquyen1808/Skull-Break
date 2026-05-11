@@ -1,10 +1,7 @@
 fileFormatVersion: 2
-guid: c50bfc3ee39e12545a1d8ccefd3cb304
+guid: 3b8053ca4b01f45459e89bfc0e5d9b51
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: -3603556060819865620
-    second: ball_0
+  internalIDToNameTable: []
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -42,16 +39,16 @@ TextureImporter:
     mipBias: 0
     wrapU: 1
     wrapV: 1
-    wrapW: 1
+    wrapW: 0
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 60
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -126,23 +123,111 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ball_0
+      name: IAP_new_update_4_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 561
-        height: 564
+        x: 51
+        y: 529
+        width: 194
+        height: 196
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: cef30aaead89dfdc0800000000000000
-      internalID: -3603556060819865620
+      spriteID: 189358483b6943144ab2ada85401f1f3
+      internalID: -1773950625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IAP_new_update_4_1
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 522
+        width: 307
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a93dfe0ae8879e428632940f77b057d
+      internalID: 1221822256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IAP_new_update_4_5
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 12
+        width: 288
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc874e7fba98f14688d3945cf85d64e
+      internalID: 719025108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IAP_new_update_4_6
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 12
+        width: 315
+        height: 309
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81af8d92e3255e46991aa8bfb39109b
+      internalID: 1990903189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IAP_new_update_4_8
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 6
+        width: 337
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c556917bb3ade984fbb72ee673ec40c8
+      internalID: 10472371
       vertices: []
       indices: 
       edges: []
@@ -151,7 +236,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: cd6ced2c61d8d494d91a8837b5f64ab6
     internalID: 0
     vertices: []
     indices: 
@@ -159,9 +244,19 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      ball_0: -3603556060819865620
+      IAP_new_update_4_0: -1773950625
+      IAP_new_update_4_1: 1221822256
+      IAP_new_update_4_2: -927986954
+      IAP_new_update_4_3: -1531538857
+      IAP_new_update_4_4: -1716815616
+      IAP_new_update_4_5: 719025108
+      IAP_new_update_4_6: 1990903189
+      IAP_new_update_4_7: 1507598539
+      IAP_new_update_4_8: 10472371
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
