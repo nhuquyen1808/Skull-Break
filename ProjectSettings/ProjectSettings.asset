@@ -270,7 +270,7 @@ PlayerSettings:
   AndroidAllowedArchitectures: -1
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: E:/_ANH CHUNG NON/Keys/Boom Monsters.keystore
+  AndroidKeystoreName: E:/_ANH CHUNG NON/Keys/Smash Riot.keystore
   AndroidKeyaliasName: 0399978748
   AndroidEnableArmv9SecurityFeatures: 1
   AndroidEnableArm64MTE: 0

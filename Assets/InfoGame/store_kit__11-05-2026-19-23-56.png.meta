@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: a95c9c7cfe83e8d4982bc42de1c68ebd
+guid: 6a944ea5fbc704c4886dd0ed4ff233f4
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2566991222798482736
-    second: PopupComPlete_0
+      213: -5643047156204448611
+    second: store_kit__11-05-2026-19-23-56_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -109,17 +109,30 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: PopupComPlete_0
+      name: store_kit__11-05-2026-19-23-56_0
       rect:
         serializedVersion: 2
-        x: 10
-        y: 35
-        width: 388
-        height: 577
+        x: 0
+        y: 0
+        width: 1080
+        height: 1920
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 03df278aae8cf9320800000000000000
-      internalID: 2566991222798482736
+      spriteID: d94d7a3728edfa1b0800000000000000
+      internalID: -5643047156204448611
       vertices: []
       indices: 
       edges: []
@@ -148,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      PopupComPlete_0: 2566991222798482736
+      store_kit__11-05-2026-19-23-56_0: -5643047156204448611
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -177,7 +177,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: ba730a07070118d4d98f3671e25401ce, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 4bc6c3590662a61449160a4521175376, type: 3}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -209,7 +209,7 @@ GameObject:
   - component: {fileID: 104604285}
   - component: {fileID: 104604284}
   m_Layer: 5
-  m_Name: bm_pack_4
+  m_Name: sr_pack_4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -249,7 +249,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 50a949a1266d1144d8606ac695a5de83, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  key: bm_pack_4
+  key: sr_pack_4
   coinReceive: 15000
   txtPrice: {fileID: 306641069}
   txtCoin: {fileID: 1863130858}
@@ -330,7 +330,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 6af1db91f61c3824ca52638ce93d6c3b, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 98b854767477b53498ee9ac75fc4db9d, type: 3}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -362,7 +362,7 @@ GameObject:
   - component: {fileID: 116786490}
   - component: {fileID: 116786489}
   m_Layer: 5
-  m_Name: bm_pack_6
+  m_Name: sr_pack_6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -402,7 +402,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 50a949a1266d1144d8606ac695a5de83, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  key: bm_pack_6
+  key: sr_pack_6
   coinReceive: 50000
   txtPrice: {fileID: 1451661512}
   txtCoin: {fileID: 1015404807}
@@ -483,7 +483,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 6af1db91f61c3824ca52638ce93d6c3b, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 98b854767477b53498ee9ac75fc4db9d, type: 3}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -638,7 +638,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: ba730a07070118d4d98f3671e25401ce, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 4bc6c3590662a61449160a4521175376, type: 3}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2056,7 +2056,7 @@ GameObject:
   - component: {fileID: 688851176}
   - component: {fileID: 688851175}
   m_Layer: 5
-  m_Name: bm_pack_3
+  m_Name: sr_pack_3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2096,7 +2096,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 50a949a1266d1144d8606ac695a5de83, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  key: bm_pack_3
+  key: sr_pack_3
   coinReceive: 7000
   txtPrice: {fileID: 1415004853}
   txtCoin: {fileID: 543904255}
@@ -2177,7 +2177,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 6af1db91f61c3824ca52638ce93d6c3b, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 98b854767477b53498ee9ac75fc4db9d, type: 3}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2209,7 +2209,7 @@ GameObject:
   - component: {fileID: 691943155}
   - component: {fileID: 691943154}
   m_Layer: 5
-  m_Name: bm_pack_7
+  m_Name: sr_pack_7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2249,7 +2249,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 50a949a1266d1144d8606ac695a5de83, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  key: bm_pack_7
+  key: sr_pack_7
   coinReceive: 75000
   txtPrice: {fileID: 142682503}
   txtCoin: {fileID: 508130623}
@@ -2330,7 +2330,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 6af1db91f61c3824ca52638ce93d6c3b, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 98b854767477b53498ee9ac75fc4db9d, type: 3}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2672,7 +2672,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: ba730a07070118d4d98f3671e25401ce, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 4bc6c3590662a61449160a4521175376, type: 3}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2704,7 +2704,7 @@ GameObject:
   - component: {fileID: 933026481}
   - component: {fileID: 933026480}
   m_Layer: 5
-  m_Name: bm_pack_9
+  m_Name: sr_pack_9
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2744,7 +2744,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 50a949a1266d1144d8606ac695a5de83, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  key: bm_pack_9
+  key: sr_pack_9
   coinReceive: 250000
   txtPrice: {fileID: 1113223108}
   txtCoin: {fileID: 650922009}
@@ -2825,7 +2825,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 6af1db91f61c3824ca52638ce93d6c3b, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 98b854767477b53498ee9ac75fc4db9d, type: 3}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -3058,7 +3058,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -6695950386315148514, guid: e0f6ae96278dce04cba6d6d6b4235103, type: 3}
+  m_Sprite: {fileID: 21300000, guid: e0f6ae96278dce04cba6d6d6b4235103, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -3090,7 +3090,7 @@ GameObject:
   - component: {fileID: 1127345497}
   - component: {fileID: 1127345496}
   m_Layer: 5
-  m_Name: bm_pack_5
+  m_Name: sr_pack_5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3130,7 +3130,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 50a949a1266d1144d8606ac695a5de83, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  key: bm_pack_5
+  key: sr_pack_5
   coinReceive: 25000
   txtPrice: {fileID: 438600722}
   txtCoin: {fileID: 1264752903}
@@ -3211,7 +3211,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 6af1db91f61c3824ca52638ce93d6c3b, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 98b854767477b53498ee9ac75fc4db9d, type: 3}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -3517,7 +3517,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: ba730a07070118d4d98f3671e25401ce, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 4bc6c3590662a61449160a4521175376, type: 3}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -4021,7 +4021,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: ba730a07070118d4d98f3671e25401ce, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 4bc6c3590662a61449160a4521175376, type: 3}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -4330,7 +4330,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: ba730a07070118d4d98f3671e25401ce, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 4bc6c3590662a61449160a4521175376, type: 3}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -4362,7 +4362,7 @@ GameObject:
   - component: {fileID: 1479394317}
   - component: {fileID: 1479394316}
   m_Layer: 5
-  m_Name: bm_pack_8
+  m_Name: sr_pack_8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4402,7 +4402,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 50a949a1266d1144d8606ac695a5de83, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  key: bm_pack_8
+  key: sr_pack_8
   coinReceive: 100000
   txtPrice: {fileID: 1885665517}
   txtCoin: {fileID: 1581334136}
@@ -4483,7 +4483,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 6af1db91f61c3824ca52638ce93d6c3b, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 98b854767477b53498ee9ac75fc4db9d, type: 3}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -4819,7 +4819,7 @@ GameObject:
   - component: {fileID: 1585519601}
   - component: {fileID: 1585519600}
   m_Layer: 5
-  m_Name: bm_pack_2
+  m_Name: sr_pack_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4859,7 +4859,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 50a949a1266d1144d8606ac695a5de83, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  key: bm_pack_2
+  key: sr_pack_2
   coinReceive: 5000
   txtPrice: {fileID: 767940577}
   txtCoin: {fileID: 207629818}
@@ -4940,7 +4940,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 6af1db91f61c3824ca52638ce93d6c3b, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 98b854767477b53498ee9ac75fc4db9d, type: 3}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -5174,7 +5174,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: ba730a07070118d4d98f3671e25401ce, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 4bc6c3590662a61449160a4521175376, type: 3}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -5704,7 +5704,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: ba730a07070118d4d98f3671e25401ce, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 4bc6c3590662a61449160a4521175376, type: 3}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -7619,7 +7619,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 2649922491847709488, guid: 151de834dc4cca14fa9a6c601fe10da4, type: 3}
+  m_Sprite: {fileID: -3462692581022290810, guid: d1676a78c28ddad449567ea948564388, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -8015,7 +8015,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 50a949a1266d1144d8606ac695a5de83, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  key: bm_pack_1
+  key: sr_pack_1
   coinReceive: 3000
   txtPrice: {fileID: 5280502111937831075}
   txtCoin: {fileID: 4614848054916514985}
@@ -8564,7 +8564,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 69375cf54fa3c8a4a9cb6ffe4384c2c7, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 54c7e6572b6859f438910e2ae620bfa4, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -9056,7 +9056,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 0, y: 61}
+  m_AnchoredPosition: {x: 0, y: 82}
   m_SizeDelta: {x: 678.9526, y: 203.121}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!224 &2486211717866708700
@@ -10461,7 +10461,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: ddc0684b52586764a82356dcbe6ac937, type: 3}
+  m_Sprite: {fileID: -302976721, guid: c982d1261efc5d14393c0ddf075a1ec2, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -12814,7 +12814,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 3d26876ed5ea47f46be570aa5a69e4e8, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 5b985cfa8557419489c5d164ab73dbea, type: 3}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -12823,7 +12823,7 @@ MonoBehaviour:
   m_FillClockwise: 1
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
+  m_PixelsPerUnitMultiplier: 1.21
 --- !u!224 &5844253142847344597
 RectTransform:
   m_ObjectHideFlags: 0
@@ -13380,7 +13380,7 @@ GameObject:
   - component: {fileID: 3334846908961472469}
   - component: {fileID: 1716750564122498965}
   m_Layer: 5
-  m_Name: bm_pack_1
+  m_Name: sr_pack_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14291,7 +14291,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: ba730a07070118d4d98f3671e25401ce, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 4bc6c3590662a61449160a4521175376, type: 3}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -15429,7 +15429,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: a9779f9b72e8dfe43b3b0f4c90b3559f, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 04959a4bcaac14c4e9e4702f273cbf68, type: 3}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -16068,7 +16068,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 6af1db91f61c3824ca52638ce93d6c3b, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 98b854767477b53498ee9ac75fc4db9d, type: 3}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -16226,8 +16226,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 99.3, y: -35.30005}
-  m_SizeDelta: {x: 71.3086, y: 60.2734}
+  m_AnchoredPosition: {x: 99.3, y: -30.227417}
+  m_SizeDelta: {x: 71.3086, y: 70.4186}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &8548499118811281293
 CanvasRenderer:
@@ -16337,29 +16337,29 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   dontDestroyOnLoad: 1
-  primaryKEY: bm
+  primaryKEY: sr
   amount: 9
   lstKeyCode:
-  - key: bm_pack_1
+  - key: sr_pack_1
     productType: 0
-  - key: bm_pack_2
+  - key: sr_pack_2
     productType: 0
-  - key: bm_pack_3
+  - key: sr_pack_3
     productType: 0
-  - key: bm_pack_4
+  - key: sr_pack_4
     productType: 0
-  - key: bm_pack_5
+  - key: sr_pack_5
     productType: 0
-  - key: bm_pack_6
+  - key: sr_pack_6
     productType: 0
-  - key: bm_pack_7
+  - key: sr_pack_7
     productType: 0
-  - key: bm_pack_8
+  - key: sr_pack_8
     productType: 0
-  - key: bm_pack_9
+  - key: sr_pack_9
     productType: 0
-  GameID: com.BoomMonsters.BoomMonsters
-  GameName: Boom Monsters
+  GameID: com.SmashRiot.SmashRiot
+  GameName: Smash Riot
 --- !u!114 &8702196886657396797
 MonoBehaviour:
   m_ObjectHideFlags: 0
