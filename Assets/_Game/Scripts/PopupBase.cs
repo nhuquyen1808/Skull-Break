@@ -42,7 +42,7 @@ public class PopupBase : MonoBehaviour
     {
         imgFade.DOFade(0, showduration).AsyncWaitForCompletion();
         await content.DOFade(0, showduration).AsyncWaitForCompletion();
-        content.gameObject.SetActive(false);
+        //content.gameObject.SetActive(false);
         imgFade.gameObject.SetActive(false);
     }
 }
